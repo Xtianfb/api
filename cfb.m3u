@@ -23,3 +23,5 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 http://170.254.18.106/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/220px-AXN_logo_%282015%29.svg.png" group-title="Movie",AXN Indonesia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/220px-AXN_logo_%282015%29.svg.png" group-title="Movie",AXN HD
+https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
