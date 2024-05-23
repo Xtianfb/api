@@ -17,3 +17,7 @@ https://cdn1.skygo.mn/live/disk1/Arirang/HLS-FTA/Arirang.m3u8
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Cartoon_Network_logo_(2004-2010).svg" group-title="LAZYIPTV",Cartoon Network
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/200px-HGTV_2010.svg.png" group-title="LAZYIPTV",HGTV PH
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
+
+
