@@ -21,9 +21,10 @@ https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/220px-AXN_logo_%282015%29.svg.png" group-title="Movie",AXN East Asia (Indonesian subtitle) (576p) 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/220px-Bravo_2017_logo.svg.png" group-title="Movie",Bravo
+#EXTM3U
+#EXTINF:-1 tvg-id="",Bravo
 http://170.254.18.106/BRAVO/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/220px-AXN_logo_%282015%29.svg.png" group-title="Movie",AXN
+#EXTINF:-1 tvg-id="",AXN
 http://170.254.18.106/AXN/index.m3u8
 #EXTINF:-1 tvg-id="",AMC
 http://170.254.18.106/AMC/index.m3u8
