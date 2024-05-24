@@ -58,7 +58,7 @@ http://170.254.18.106/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/VH1_logo.svg/220px-VH1_logo.svg.png" group-title="Movie",VH1
 http://170.254.18.106/VH1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/220px-Paramount_Network_2024.svg.png" group-title="Movie"",PARAMOUNT NETWORK
-http://170.254.18.106/PARAMOUNT/index.m3u8
+http://stream01.vnet.am/ParamountChannel/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/275px-Cinemax_2016.svg.png" group-title="Movie",CINEMAX
 http://170.254.18.106/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/BET-2021Logo.svg/200px-BET-2021Logo.svg.png" group-title="Movie",BET
