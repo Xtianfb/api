@@ -28,6 +28,6 @@
     {
         "name": "Sky News",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/250px-Sky_News_logo.svg.png",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/w9uJg68CV4g?si=tB_fygP7Ary51DvY?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/oJUvTVdTMyY?si=8Pl6FxX2u6xuzykX?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     }
 ]
