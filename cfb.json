@@ -31,8 +31,8 @@
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/oJUvTVdTMyY?si=IqEncpzjY2VrvbGD?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     },
     {
-        "name": "KBS Korea",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/260px-KBS_World_%282009%29.svg.png",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/OxQQsIvJTTU?si=l-LBz1WYbh6u49NQ?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+        "name": "DW News",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png",
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/live/tZT2MCYu6Zw?si=msFoCc58dAcUh1Wf?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     }
 ]
