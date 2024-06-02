@@ -1,6 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Kapamilya_channel.png" group-title="Local",KAPAMILYA
+https://jeromelaliag.link/iptv/abscbnentertainment.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/GMA_Network_logo.png" group-title="Local",GMA
+https://jeromelaliag.link/iptv/gmanetwork.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/TV5_HD_2024.svg" group-title="Local",TV5
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ABS-CBN_News_Channel_%282015%29.svg/640px-ABS-CBN_News_Channel_%282015%29.svg.png" group-title="Local",ANC
+https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/OneSPORTS_LOGO-FA-01.png" group-title="Sport",One Sports+
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Myxphlogo.svg" group-title="Local",MYX PH
@@ -17,20 +23,36 @@ https://cdn1.skygo.mn/live/disk1/Arirang/HLS-FTA/Arirang.m3u8
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/bf022930-0da6-11ee-9a0d-659e025a2c6e/4897409/868539176.jpg" group-title="Asian", K-MOVIES
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/260px-KBS_World_%282009%29.svg.png" group-title="Asian",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/640px-Rakuten_TV_logo.svg.png" group-title="Asian",Rakuten TV Action Movie
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/640px-Rakuten_TV_logo.svg.png" group-title="Asian",Rakuten TV Family
+https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/640px-Rakuten_TV_logo.svg.png" group-title="Asian",Rakuten Top Free
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Cartoon_Network_logo_(2004-2010).svg" group-title="Kids",Cartoon Network
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/640px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids",Cartoonito
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/200px-HGTV_2010.svg.png" group-title="Reality",HGTV PH
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png" group-title="Reality",TLC
+https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_20.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/150px-Food_Network_logo.svg.png" group-title="Reality",Food Network
+https://food-dlvr-ott.akamaized.net/primary/4/5f47a0b006554a9e82de75cf1a4fbe0f/index_13.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/220px-AXN_logo_%282015%29.svg.png" group-title="Movie",AXN HD
 https://z88.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movie",HBO HD
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie",HBO hits
+https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png" group-title="News",CNN USA
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
 #EXTINF:-1 tvg-id="AVAFamily.ir" tvg-logo="https://i.imgur.com/QwBGLzK.png" group-title="Movies",AVA Family
 https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_20.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/640px-Discovery_Asia_logo.svg.png" group-title="Documentary",Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/640px-CNA_new_logo.svg.png" group-title="Documentary",CNA
