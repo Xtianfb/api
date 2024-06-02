@@ -29,8 +29,6 @@ https://rakuten-topfree-1-eu.rakuten.wurl.tv/2000.m3u8
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Cartoon_Network_logo_(2004-2010).svg" group-title="Kids",Cartoon Network
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Nickelodeon_%281984_logo%29.svg/640px-Nickelodeon_%281984_logo%29.svg.png" group-title="Kids",Nickelodeon
-http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/640px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids",Cartoonito
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/200px-HGTV_2010.svg.png" group-title="Reality",HGTV PH
