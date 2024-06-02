@@ -43,7 +43,7 @@ https://dplus.gammacdn.workers.dev/videos/96.m3u8
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary",Investigation Discovery
 https://dplus.gammacdn.workers.dev/videos/101.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Dmax_tv-channel.png" group-title="Documentary",DMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/200px-DMAX_BLACK.svg.png" group-title="Documentary",DMAX
 https://dplus.gammacdn.workers.dev/videos/109.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Documentary",Travel Channel
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
