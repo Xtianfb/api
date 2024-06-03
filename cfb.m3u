@@ -79,5 +79,5 @@ https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 https://amg01082-amg01082c1-cna-worldwide-2842.playouts.now.amagi.tv/cna-cnanews-samsung/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="Sports",ESPN
 https://github.com/Xtianfb/api/blob/main/espn.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/220px-Fox_Business.svg.png" group-title="News":FOX BUSINESS
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11414
+#EXTINF:-1,DE_SKY_Sport_1_HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/103
