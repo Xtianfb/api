@@ -79,5 +79,5 @@ https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 https://amg01082-amg01082c1-cna-worldwide-2842.playouts.now.amagi.tv/cna-cnanews-samsung/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="Sports",ESPN
 https://github.com/Xtianfb/api/blob/main/espn.m3u8
-#EXTINF:0,UK: BT Sport ESPN HD
+#EXTINF:-1,UK: BT Sport ESPN HD
 http://driptvs.com:8080/iptv4best.com/iptv4best.com123X/7808
