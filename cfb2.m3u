@@ -65,7 +65,7 @@ https://dplus.gammacdn.workers.dev/videos/97.m3u8
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/bbc/images/3/34/BBC_Food_channel_logo.png/revision/latest?cb=20210517153805" group-title="Cooking",BBC Food
 https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kE3VRjpIz3GM7ubwZBiR0KjfJJEHoPfNOx7LxQBWnCShRM=s160-c-k-c0x00ffffff-no-rj" group-title="Cooking",Tastemade Food
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TastemadeLogo.svg/220px-TastemadeLogo.svg.png" group-title="Cooking",Tastemade Food
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/613779166334e6364158240c/c2461b02-94bb-4af9-92f4-cfdd157bc518/GLPFilms-LogoPartner-Tastemade-01-01.jpg" group-title="Lifestyle",Tastemade Travel
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
