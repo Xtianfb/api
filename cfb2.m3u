@@ -65,9 +65,9 @@ https://dplus.gammacdn.workers.dev/videos/97.m3u8
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/bbc/images/3/34/BBC_Food_channel_logo.png/revision/latest?cb=20210517153805" group-title="Cooking",BBC Food
 https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.com//dtvassets/global/channel-icons/t-u/Channel_Icon_Tastemade_Travel.svg" group-title="Cooking",Tastemade Food
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TastemadeLogo.svg/220px-TastemadeLogo.svg.png" group-title="Cooking",Tastemade Food
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/613779166334e6364158240c/c2461b02-94bb-4af9-92f4-cfdd157bc518/GLPFilms-LogoPartner-Tastemade-01-01.jpg" group-title="Lifestyle",Tastemade Travel
+#EXTINF:-1 tvg-logo="https://www.directv.com//dtvassets/global/channel-icons/t-u/Channel_Icon_Tastemade_Travel.svg" group-title="Lifestyle",Tastemade Travel
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/200px-2018_Travel_Channel_logo.svg.png" group-title="Lifestyle",Travel Channel
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
