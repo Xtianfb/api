@@ -95,6 +95,10 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/2560px-BBC_World_News_2022.svg.png" group-title="News",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/220px-Deutsche_Welle_Logo.svg.png" group-title="Documentary",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/640px-CNA_new_logo.svg.png" group-title="Documentary",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Nature",Animal Planet
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uKadCsg.png" group-title="Nature",Wild Planet
@@ -105,5 +109,3 @@ https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://wildearth-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/640px-Discovery_Asia_logo.svg.png" group-title="Documentary",Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/640px-CNA_new_logo.svg.png" group-title="Documentary",CNA
-https://amg01082-amg01082c1-cna-worldwide-2842.playouts.now.amagi.tv/cna-cnanews-samsung/playlist.m3u8
