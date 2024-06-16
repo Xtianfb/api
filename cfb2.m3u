@@ -143,7 +143,3 @@ https://wildearth-plex.amagi.tv/playlist.m3u8
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/250px-ACC_Network_ESPN_logo.svg.png" group-title="Movie",ACC NETWORK
 https://v1.thetvapp.to/hls/ACCNetwork.m3u8?token=LjhmwAVvRUJVYkXlvLfoyg&expires=1718571608
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/150px-A%26E_Network_logo.svg.png" group-title="Movie",A&E
-https://v1.thetvapp.to/hls/AEEast.m3u8?token=gFG5khLKJ9C4eRaCABBBtg&expires=1718571604
-#EXTINF:-1 tvg-logo="https://int.klcis.cc/img/american-heroes-channel-live-stream.png" group-title="Documentary",AMERICAN HEROES CHANNEL
-https://v1.thetvapp.to/hls/AmericanHeroesChannel.m3u8
