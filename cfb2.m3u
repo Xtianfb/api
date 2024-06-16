@@ -55,8 +55,6 @@ https://d89ea9d7a37f40408057298b5ea93acc.mediatailor.us-east-1.amazonaws.com/v1/
 https://d2h3esqi6ab3e7.cloudfront.net/540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/America%27s_Got_Talent_2015_logo.png/220px-America%27s_Got_Talent_2015_logo.png" group-title="Talent",Americas Got Talent
 https://dhkq1p9audihq.cloudfront.net/480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/AmericanPickers2.jpg/220px-AmericanPickers2.jpg" group-title="Reality",American Pickers
-https://d2fmvezvf9jfft.cloudfront.net/360p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/200px-BBC_Earth_2023.svg.png" group-title="Documentary",BBC Earth
 https://z88.ubtvfans.com/live/rx1/97/5eb4dbe359d9f54e5c3679edaa13ec99/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="Documentary",Discovery HD
