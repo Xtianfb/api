@@ -71,6 +71,14 @@ https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/
 https://d1igp1kv49nlwd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hae5qyvcpgkso-prod/amgthisoldhouse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png" group-title="Reality",TLC
 https://dplus.gammacdn.workers.dev/videos/97.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/american-pickers-logo-A03D6DF65E-seeklogo.com.png" group-title="Variety",American Pickers
+https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/America%27s_Got_Talent_2015_logo.png/1200px-America%27s_Got_Talent_2015_logo.png" group-title="Talent",America's Got Talent
+https://dhkq1p9audihq.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/American_Idol_logo.svg/1280px-American_Idol_logo.svg.png" group-title="Talent",American Idol
+https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="AFV"  tvg-logo="https://asset.brandfetch.io/idEdVdcbxd/idchi5xM0w.png" group-title="Variety" , AFV
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/150px-Food_Network_logo.svg.png" group-title="Cooking",Food Network
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/bbc/images/3/34/BBC_Food_channel_logo.png/revision/latest?cb=20210517153805" group-title="Cooking",BBC Food
