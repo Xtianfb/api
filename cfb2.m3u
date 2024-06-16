@@ -109,7 +109,7 @@ https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://wildearth-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/640px-Discovery_Asia_logo.svg.png" group-title="Documentary",Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
-#EXTINF:-1 tvg-logo="https://int.klcis.cc/img/animal-planet-live-stream.png" group-title="All Channels",ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Nature",ANIMAL PLANET
 https://v1.thetvapp.to/hls/AnimalPlanetEast.m3u8?token=gEvIVKcfE1srnoE0jbyDZw&expires=1718532004
 #EXTINF:-1 tvg-logo="https://int.klcis.cc/img/amc-live-stream.png" group-title="All Channels",AMC
 https://v1.thetvapp.to/hls/AMCEast.m3u8?token=aRQ379AAX0Dy3Fu7kWRvww&expires=1718532007
