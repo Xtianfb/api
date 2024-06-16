@@ -51,6 +51,12 @@ https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.failarmy.com/cdn/shop/files/FA_RGB_STACKED-LOGO_HORIZONTAL_410x.png?v=1623863723" group-title="Funny",Fail Army
 https://d89ea9d7a37f40408057298b5ea93acc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_FailArmy/playlist.m3u8?ads.wurl_channel=151&amp;ads.wurl_name=FailArmy&amp;ads.coppa=0&amp;ads.psid=%7BPSID%7D&amp;ads.targetopt=%7BTARGETOPT%7D&amp;ads.app_domain=%7BAPP_DOMAIN%7D&amp;ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/American_Idol_ABC_logo.png/220px-American_Idol_ABC_logo.png" group-title="Talent",American Idol
+https://d2h3esqi6ab3e7.cloudfront.net/540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/America%27s_Got_Talent_2015_logo.png/220px-America%27s_Got_Talent_2015_logo.png" group-title="Talent",Americas Got Talent
+https://dhkq1p9audihq.cloudfront.net/480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/AmericanPickers2.jpg/220px-AmericanPickers2.jpg" group-title="Reality",American Pickers
+https://d2fmvezvf9jfft.cloudfront.net/360p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/200px-BBC_Earth_2023.svg.png" group-title="Documentary",BBC Earth
 https://z88.ubtvfans.com/live/rx1/97/5eb4dbe359d9f54e5c3679edaa13ec99/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="Documentary",Discovery HD
