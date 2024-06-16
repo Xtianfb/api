@@ -11,10 +11,6 @@ https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Myxphlogo.svg" group-title="Local",MYX PH
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/PTV_4_Para_Sa_Bayan_Logo_June_2017.svg/240px-PTV_4_Para_Sa_Bayan_Logo_June_2017.svg.png" group-title="Local",PTV News
-https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/DZRH_News_Television_Logo_%282021%29.jpg/250px-DZRH_News_Television_Logo_%282021%29.jpg" group-title="Local",DZRH News
-https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png" group-title="Local",TeleRadyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Radyo5truefmlogo.webp/640px-Radyo5truefmlogo.webp.png&w=640&q=50" group-title="Local",Radyo 5
@@ -93,6 +89,8 @@ https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie",HBO hits
 https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png" group-title="Movie",HBO Signature
+https://z88.ubtvfans.com/live/rx3/2824/7c499709e04993dcdb601df47291e152/index.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwBGLzK.png" group-title="Movies",AVA Family
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png" group-title="News",CNN USA
