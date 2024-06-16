@@ -175,7 +175,7 @@ https://v2.thetvapp.to/hls/EEast.m3u8?token=L9a7R6fqYHozxQ4K72Pf0w&expires=17185
 https://v2.thetvapp.to/hls/ESPNews.m3u8?token=S1f9l_nGEKwc5zDeQihFTw&expires=1718532072
 #EXTINF:-1 tvg-logo="https://int.klcis.cc/img/espnu-live-stream.png" group-title="All Channels",ESPNU
 https://v2.thetvapp.to/hls/ESPNU.m3u8?token=-AYOnE8APoyuuAlavkuQVw&expires=1718532072
-#EXTINF:-1tvg-logo="https://int.klcis.cc/img/fox-business-network-live-stream.png" group-title="All Channels",FOX BUSINESS NETWORK
+#EXTINF:-1 tvg-logo="https://int.klcis.cc/img/fox-business-network-live-stream.png" group-title="All Channels",FOX BUSINESS NETWORK
 https://v2.thetvapp.to/hls/FoxBusiness.m3u8?token=yv209PKJ45TKQmzpzmE0NA&expires=1718532080
 #EXTINF:-1 tvg-logo="https://int.klcis.cc/img/food-network-live-stream.png" group-title="All Channels",FOOD NETWORK
 https://v2.thetvapp.to/hls/FoodNetworkEast.m3u8?token=tMaYMj0IRasuqJvKCxlDVQ&expires=1718532080
