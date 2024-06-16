@@ -141,11 +141,9 @@ https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://wildearth-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/640px-Discovery_Asia_logo.svg.png" group-title="Documentary",Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
-#EXTINF:-1 tvg-logo="https://int.klcis.cc/img/animal-planet-live-stream.png" group-title="All Channels" , ANIMAL PLANET LIVE STREAM
-https://v1.thetvapp.to/hls/AnimalPlanetEast.m3u8?token=hLQPrHyYr6vFX-qyaMOczw&expires=1718571608
-#EXTINF:-1 tvg-logo="https://int.klcis.cc/img/amc-live-stream.png" group-title="All Channels" , AMC LIVE STREAM
+#EXTINF:-1 tvg-logo="https://int.klcis.cc/img/amc-live-stream.png" group-title="Movie",AMC
 https://v1.thetvapp.to/hls/AMCEast.m3u8?token=Qs5TXcsk7Ld34MCcNDgzyQ&expires=1718571608
-#EXTINF:-1 tvg-logo="https://int.klcis.cc/img/acc-network-live-stream.png" group-title="All Channels" , ACC NETWORK LIVE STREAM
+#EXTINF:-1 tvg-logo="https://int.klcis.cc/img/acc-network-live-stream.png" group-title="Movie",ACC NETWORK
 https://v1.thetvapp.to/hls/ACCNetwork.m3u8?token=LjhmwAVvRUJVYkXlvLfoyg&expires=1718571608
-#EXTINF:-1 tvg-id="" tvg-name="AE LIVE STREAM" tvg-logo="https://int.klcis.cc/img/ae-live-stream.png" group-title="All Channels" , AE LIVE STREAM
+#EXTINF:-1 tvg-logo="https://int.klcis.cc/img/ae-live-stream.png" group-title="Movie",AE
 https://v1.thetvapp.to/hls/AEEast.m3u8?token=gFG5khLKJ9C4eRaCABBBtg&expires=1718571604
