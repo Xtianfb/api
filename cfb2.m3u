@@ -45,6 +45,8 @@ https://comedy-redbox.amagi.tv/playlist.m3u8
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/640px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids",Cartoonito
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/AFHV_new_logo_%28main%29.png/220px-AFHV_new_logo_%28main%29.png" group-title="Variety",AFV
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.failarmy.com/cdn/shop/files/FA_RGB_STACKED-LOGO_HORIZONTAL_410x.png?v=1623863723" group-title="Funny",Fail Army
 https://d89ea9d7a37f40408057298b5ea93acc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_FailArmy/playlist.m3u8?ads.wurl_channel=151&amp;ads.wurl_name=FailArmy&amp;ads.coppa=0&amp;ads.psid=%7BPSID%7D&amp;ads.targetopt=%7BTARGETOPT%7D&amp;ads.app_domain=%7BAPP_DOMAIN%7D&amp;ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/200px-BBC_Earth_2023.svg.png" group-title="Documentary",BBC Earth
@@ -71,14 +73,6 @@ https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/
 https://d1igp1kv49nlwd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hae5qyvcpgkso-prod/amgthisoldhouse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png" group-title="Reality",TLC
 https://dplus.gammacdn.workers.dev/videos/97.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/american-pickers-logo-A03D6DF65E-seeklogo.com.png" group-title="Variety",American Pickers
-https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/America%27s_Got_Talent_2015_logo.png/1200px-America%27s_Got_Talent_2015_logo.png" group-title="Talent",America's Got Talent
-https://dhkq1p9audihq.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/American_Idol_logo.svg/1280px-American_Idol_logo.svg.png" group-title="Talent",American Idol
-https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://asset.brandfetch.io/idEdVdcbxd/idchi5xM0w.png" group-title="Variety",AFV
-https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/150px-Food_Network_logo.svg.png" group-title="Cooking",Food Network
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/bbc/images/3/34/BBC_Food_channel_logo.png/revision/latest?cb=20210517153805" group-title="Cooking",BBC Food
