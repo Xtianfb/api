@@ -81,7 +81,7 @@ https://d1igp1kv49nlwd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://dplus.gammacdn.workers.dev/videos/97.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/150px-Food_Network_logo.svg.png" group-title="Cooking",Food Network
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
-#EXTINF:-1 tvg-logo=https://static.wikia.nocookie.net/bbc/images/3/34/BBC_Food_channel_logo.png/revision/latest/scale-to-width-down/1000?cb=20210517153805" group-title="Cooking",BBC Food
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/bbc/images/3/34/BBC_Food_channel_logo.png/revision/latest/scale-to-width-down/1000?cb=20210517153805" group-title="Cooking",BBC Food
 https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TastemadeLogo.svg/220px-TastemadeLogo.svg.png" group-title="Cooking",Tastemade Food
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
