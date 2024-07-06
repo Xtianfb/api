@@ -1,0 +1,225 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET LIVE STREAM" tvg-logo="https://int.klcis.cc/img/animal-planet-live-stream.png" group-title="All Channels" , ANIMAL PLANET LIVE STREAM
+https://v1.thetvapp.to/hls/AnimalPlanetEast.m3u8?token=bYXEYUZ-lKZrqJpuxRLC7Q&expires=1720267206
+#EXTINF:-1 tvg-id="" tvg-name="AMC LIVE STREAM" tvg-logo="https://int.klcis.cc/img/amc-live-stream.png" group-title="All Channels" , AMC LIVE STREAM
+https://v1.thetvapp.to/hls/AMCEast.m3u8?token=T057mKOOdPWcSjuE5O0DAA&expires=1720267206
+#EXTINF:-1 tvg-id="" tvg-name="ACC NETWORK LIVE STREAM" tvg-logo="https://int.klcis.cc/img/acc-network-live-stream.png" group-title="All Channels" , ACC NETWORK LIVE STREAM
+https://v1.thetvapp.to/hls/ACCNetwork.m3u8?token=RS34tNR77WYQIyRX3zgTSw&expires=1720267206
+#EXTINF:-1 tvg-id="" tvg-name="AE LIVE STREAM" tvg-logo="https://int.klcis.cc/img/ae-live-stream.png" group-title="All Channels" , AE LIVE STREAM
+https://v1.thetvapp.to/hls/AEEast.m3u8?token=NKBcKUbw1F__X2et9189LA&expires=1720267206
+#EXTINF:-1 tvg-id="" tvg-name="AMERICAN HEROES CHANNEL LIVE STREAM" tvg-logo="https://int.klcis.cc/img/american-heroes-channel-live-stream.png" group-title="All Channels" , AMERICAN HEROES CHANNEL LIVE STREAM
+https://v1.thetvapp.to/hls/AmericanHeroesChannel.m3u8?token=82TGy7Jj7F7ZRChZfYX-Tw&expires=1720267206
+#EXTINF:-1 tvg-id="" tvg-name="BET HER LIVE STREAM" tvg-logo="https://int.klcis.cc/img/bet-her-live-stream.png" group-title="All Channels" , BET HER LIVE STREAM
+https://v1.thetvapp.to/hls/BETHerEast.m3u8?token=wpB91uh37-Np4gTz0EHKcQ&expires=1720267218
+#EXTINF:-1 tvg-id="" tvg-name="BET LIVE STREAM" tvg-logo="https://int.klcis.cc/img/bet-live-stream.png" group-title="All Channels" , BET LIVE STREAM
+https://v1.thetvapp.to/hls/BETEast.m3u8?token=q6BMLnFcs9IIUPXegcjDBg&expires=1720267218
+#EXTINF:-1 tvg-id="" tvg-name="BBC AMERICA LIVE STREAM" tvg-logo="https://int.klcis.cc/img/bbc-america-live-stream.png" group-title="All Channels" , BBC AMERICA LIVE STREAM
+https://v1.thetvapp.to/hls/BBCAmericaEast.m3u8?token=z0ps5x6W-VSZzsGk1ynTvQ&expires=1720267218
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS HD LIVE STREAM" tvg-logo="https://int.klcis.cc/img/bbc-world-news-hd-live-stream.png" group-title="All Channels" , BBC WORLD NEWS HD LIVE STREAM
+https://v1.thetvapp.to/hls/BBCWorldNewsNorthAmerica.m3u8?token=LggcJjL6rXGj2AVsE_HdBQ&expires=1720267218
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG TV LIVE STREAM" tvg-logo="https://int.klcis.cc/img/bloomberg-tv-live-stream.png" group-title="All Channels" , BLOOMBERG TV LIVE STREAM
+https://v1.thetvapp.to/hls/BloombergTV.m3u8?token=dY-BwU5nDH2NoadSLfaPRA&expires=1720267218
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG LIVE STREAM" tvg-logo="https://int.klcis.cc/img/boomerang-live-stream.png" group-title="All Channels" , BOOMERANG LIVE STREAM
+https://v1.thetvapp.to/hls/Boomerang.m3u8?token=08ETvq7IUhpv6cTh5jK8fQ&expires=1720267230
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK LIVE STREAM" tvg-logo="https://int.klcis.cc/img/cartoon-network-live-stream.png" group-title="All Channels" , CARTOON NETWORK LIVE STREAM
+https://v1.thetvapp.to/hls/CartoonNetworkEast.m3u8?token=eFw-0sA8ReLoIm1AuwyH6Q&expires=1720267230
+#EXTINF:-1 tvg-id="" tvg-name="BRAVO LIVE STREAM" tvg-logo="https://int.klcis.cc/img/bravo-live-stream.png" group-title="All Channels" , BRAVO LIVE STREAM
+https://v1.thetvapp.to/hls/BravoEast.m3u8?token=aA_EH30k582IJkI6dsoPSg&expires=1720267230
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX LIVE STREAM" tvg-logo="https://int.klcis.cc/img/cinemax-live-stream.png" group-title="All Channels" , CINEMAX LIVE STREAM
+https://v1.thetvapp.to/hls/CinemaxEast.m3u8?token=_3eK02a2j2gf3_HFAmA-zQ&expires=1720267230
+#EXTINF:-1 tvg-id="" tvg-name="CBS SPORTS NETWORK LIVE STREAM" tvg-logo="https://int.klcis.cc/img/cbs-sports-network-live-stream.png" group-title="All Channels" , CBS SPORTS NETWORK LIVE STREAM
+https://v1.thetvapp.to/hls/CBSSportsNetworkUSA.m3u8?token=WVUVRGXX8HcOssmHQvE1Mg&expires=1720267230
+#EXTINF:-1 tvg-id="" tvg-name="CMT LIVE STREAM" tvg-logo="https://int.klcis.cc/img/cmt-live-stream.png" group-title="All Channels" , CMT LIVE STREAM
+https://v1.thetvapp.to/hls/CMTEast.m3u8?token=TefSuJNHmbYXOes3ZX9BXQ&expires=1720267238
+#EXTINF:-1 tvg-id="" tvg-name="CNBC LIVE STREAM" tvg-logo="https://int.klcis.cc/img/cnbc-live-stream.png" group-title="All Channels" , CNBC LIVE STREAM
+https://v1.thetvapp.to/hls/CNBC.m3u8?token=PzdqhQM5fXz1BQlHzE2utw&expires=1720267240
+#EXTINF:-1 tvg-id="" tvg-name="CNN LIVE STREAM" tvg-logo="https://int.klcis.cc/img/cnn-live-stream.png" group-title="All Channels" , CNN LIVE STREAM
+https://v1.thetvapp.to/hls/CNN.m3u8?token=7t5r9WwE_Tqw4h-YatBDlA&expires=1720267241
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL LIVE STREAM" tvg-logo="https://int.klcis.cc/img/comedy-central-live-stream.png" group-title="All Channels" , COMEDY CENTRAL LIVE STREAM
+https://v1.thetvapp.to/hls/ComedyCentralEast.m3u8?token=QmPCYr182d7Le-5-uuEDgQ&expires=1720267240
+#EXTINF:-1 tvg-id="" tvg-name="COOKING CHANNEL LIVE STREAM" tvg-logo="https://int.klcis.cc/img/cooking-channel-live-stream.png" group-title="All Channels" , COOKING CHANNEL LIVE STREAM
+https://v1.thetvapp.to/hls/CookingChannel.m3u8?token=BU2MKq1SlFLf9MNNtFW0wQ&expires=1720267240
+#EXTINF:-1 tvg-id="" tvg-name="CRIME INVESTIGATION HD LIVE STREAM" tvg-logo="https://int.klcis.cc/img/crime-investigation-hd-live-stream.png" group-title="All Channels" , CRIME INVESTIGATION HD LIVE STREAM
+https://v1.thetvapp.to/hls/CrimePlusInvestigation.m3u8?token=IajbQJfXCYyU1Eg-h5DHAw&expires=1720267246
+#EXTINF:-1 tvg-id="" tvg-name="CSPAN LIVE STREAM" tvg-logo="https://int.klcis.cc/img/cspan-live-stream.png" group-title="All Channels" , CSPAN LIVE STREAM
+https://v1.thetvapp.to/hls/CSPAN.m3u8?token=twpVEZE2-QeFqnVGL_aFUA&expires=1720267248
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY LIVE STREAM" tvg-logo="https://int.klcis.cc/img/discovery-live-stream.png" group-title="All Channels" , DISCOVERY LIVE STREAM
+https://v1.thetvapp.to/hls/DiscoveryChannelEast.m3u8?token=f4UY-FHFFuCs2qIs2EZ2IA&expires=1720267250
+#EXTINF:-1 tvg-id="" tvg-name="CSPAN 2 LIVE STREAM" tvg-logo="https://int.klcis.cc/img/cspan-2-live-stream.png" group-title="All Channels" , CSPAN 2 LIVE STREAM
+https://v1.thetvapp.to/hls/CSPAN2.m3u8?token=-ne9KaRaTvSjiZG860jEWg&expires=1720267249
+#EXTINF:-1 tvg-id="" tvg-name="DESTINATION AMERICA LIVE STREAM" tvg-logo="https://int.klcis.cc/img/destination-america-live-stream.png" group-title="All Channels" , DESTINATION AMERICA LIVE STREAM
+https://v1.thetvapp.to/hls/DestinationAmerica.m3u8?token=9t4nVu_QQIapoJxepxEyCA&expires=1720267249
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILY CHANNEL LIVE STREAM" tvg-logo="https://int.klcis.cc/img/discovery-family-channel-live-stream.png" group-title="All Channels" , DISCOVERY FAMILY CHANNEL LIVE STREAM
+https://v1.thetvapp.to/hls/DiscoveryFamily.m3u8?token=Igt05McWT8dzTvLpBSVlRg&expires=1720267255
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY LIFE LIVE STREAM" tvg-logo="https://int.klcis.cc/img/discovery-life-live-stream.png" group-title="All Channels" , DISCOVERY LIFE LIVE STREAM
+https://v1.thetvapp.to/hls/DiscoveryLife.m3u8?token=UBtCMu45HDjvACa8jjD9wA&expires=1720267256
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL EAST LIVE STREAM" tvg-logo="https://int.klcis.cc/img/disney-channel-east-live-stream.png" group-title="All Channels" , DISNEY CHANNEL EAST LIVE STREAM
+https://v1.thetvapp.to/hls/DisneyChannelEast.m3u8?token=SDw0E_t7HnmzyiwnKAxFJw&expires=1720267258
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR LIVE STREAM" tvg-logo="https://int.klcis.cc/img/disney-junior-live-stream.png" group-title="All Channels" , DISNEY JUNIOR LIVE STREAM
+https://v1.thetvapp.to/hls/DisneyJuniorEast.m3u8?token=tzZVxhaViPtloW3MfqR7Vw&expires=1720267258
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD LIVE STREAM" tvg-logo="https://int.klcis.cc/img/disney-xd-live-stream.png" group-title="All Channels" , DISNEY XD LIVE STREAM
+https://v1.thetvapp.to/hls/DisneyXDEast.m3u8?token=5_sCDmxNBabgOKKvLn0fNw&expires=1720267260
+#EXTINF:-1 tvg-id="" tvg-name="E LIVE STREAM" tvg-logo="https://int.klcis.cc/img/e-live-stream.png" group-title="All Channels" , E LIVE STREAM
+https://v1.thetvapp.to/hls/EEast.m3u8?token=N5BIkMFVyC9X9JskweR1sA&expires=1720267264
+#EXTINF:-1 tvg-id="" tvg-name="ESPNEWS LIVE STREAM" tvg-logo="https://int.klcis.cc/img/espnews-live-stream.png" group-title="All Channels" , ESPNEWS LIVE STREAM
+https://v1.thetvapp.to/hls/ESPNews.m3u8?token=8NTIkJdm1nQSN_ycRVGlTA&expires=1720267268
+#EXTINF:-1 tvg-id="" tvg-name="ESPNU LIVE STREAM" tvg-logo="https://int.klcis.cc/img/espnu-live-stream.png" group-title="All Channels" , ESPNU LIVE STREAM
+https://v1.thetvapp.to/hls/ESPNU.m3u8?token=6DBdX7JVjPfPiEIkFEEZCg&expires=1720267269
+#EXTINF:-1 tvg-id="" tvg-name="FOX BUSINESS NETWORK LIVE STREAM" tvg-logo="https://int.klcis.cc/img/fox-business-network-live-stream.png" group-title="All Channels" , FOX BUSINESS NETWORK LIVE STREAM
+https://v1.thetvapp.to/hls/FoxBusiness.m3u8?token=y1IOg8djYxqQ027bzUb0cQ&expires=1720267273
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK LIVE STREAM" tvg-logo="https://int.klcis.cc/img/food-network-live-stream.png" group-title="All Channels" , FOOD NETWORK LIVE STREAM
+https://v1.thetvapp.to/hls/FoodNetworkEast.m3u8?token=PGDJ8bHFqu6XxSIFv-6WuQ&expires=1720267273
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS CHANNEL LIVE STREAM" tvg-logo="https://int.klcis.cc/img/fox-news-channel-live-stream.png" group-title="All Channels" , FOX NEWS CHANNEL LIVE STREAM
+https://v1.thetvapp.to/hls/FoxNewsChannel.m3u8?token=1v3kUDSB7Rd-SjFN-i0WfQ&expires=1720267274
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 LIVE STREAM" tvg-logo="https://int.klcis.cc/img/fox-sports-1-live-stream.png" group-title="All Channels" , FOX SPORTS 1 LIVE STREAM
+https://v1.thetvapp.to/hls/FoxSports1.m3u8?token=3Uk8bpyGTx4ZNPX2IsUDnA&expires=1720267275
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 LIVE STREAM" tvg-logo="https://int.klcis.cc/img/fox-sports-2-live-stream.png" group-title="All Channels" , FOX SPORTS 2 LIVE STREAM
+https://v1.thetvapp.to/hls/FoxSports2.m3u8?token=p7ll7GUXME-sRA7QBNOoeg&expires=1720267278
+#EXTINF:-1 tvg-id="" tvg-name="FREEFORM LIVE STREAM" tvg-logo="https://int.klcis.cc/img/freeform-live-stream.png" group-title="All Channels" , FREEFORM LIVE STREAM
+https://v1.thetvapp.to/hls/FreeformEast.m3u8?token=JYwEd5F0sF8fxOwJjz3S9g&expires=1720267281
+#EXTINF:-1 tvg-id="" tvg-name="FX LIVE STREAM" tvg-logo="https://int.klcis.cc/img/fx-live-stream.png" group-title="All Channels" , FX LIVE STREAM
+https://v4.thetvapp.to/hls/FXEast.m3u8?token=CJ5j1v32ZLgWKcA2xGGbHA&expires=1720267283
+#EXTINF:-1 tvg-id="" tvg-name="FUSE HD LIVE STREAM" tvg-logo="https://int.klcis.cc/img/fuse-hd-live-stream.png" group-title="All Channels" , FUSE HD LIVE STREAM
+https://v1.thetvapp.to/hls/FuseEast.m3u8?token=5FsrZ_E_Y9b8uX2HRkBplw&expires=1720267282
+#EXTINF:-1 tvg-id="" tvg-name="FX MOVIE LIVE STREAM" tvg-logo="https://int.klcis.cc/img/fx-movie-live-stream.png" group-title="All Channels" , FX MOVIE LIVE STREAM
+https://v4.thetvapp.to/hls/FXMovieChannel.m3u8?token=yVM9bfr9TBb6ZPDHVZ3cFQ&expires=1720267284
+#EXTINF:-1 tvg-id="" tvg-name="FXX LIVE STREAM" tvg-logo="https://int.klcis.cc/img/fxx-live-stream.png" group-title="All Channels" , FXX LIVE STREAM
+https://v4.thetvapp.to/hls/FXXEast.m3u8?token=PZHL2pIsRRBXr_0NYW_E9Q&expires=1720267288
+#EXTINF:-1 tvg-id="" tvg-name="FYI LIVE STREAM" tvg-logo="https://int.klcis.cc/img/fyi-live-stream.png" group-title="All Channels" , FYI LIVE STREAM
+https://v4.thetvapp.to/hls/FYIEast.m3u8?token=wIWs-OU5aRkkU-qnforTXw&expires=1720267289
+#EXTINF:-1 tvg-id="" tvg-name="HALLMARK LIVE STREAM" tvg-logo="https://int.klcis.cc/img/hallmark-live-stream.png" group-title="All Channels" , HALLMARK LIVE STREAM
+https://v4.thetvapp.to/hls/HallmarkChannelEast.m3u8?token=0iogqqCZPhCl6J4XYQVKYg&expires=1720267291
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL LIVE STREAM" tvg-logo="https://int.klcis.cc/img/golf-channel-live-stream.png" group-title="All Channels" , GOLF CHANNEL LIVE STREAM
+https://v4.thetvapp.to/hls/GolfChannel.m3u8?token=k32CT0xQEfX0rycNIDEcug&expires=1720267290
+#EXTINF:-1 tvg-id="" tvg-name="HALLMARK DRAMA HD LIVE STREAM" tvg-logo="https://int.klcis.cc/img/hallmark-drama-hd-live-stream.png" group-title="All Channels" , HALLMARK DRAMA HD LIVE STREAM
+https://v4.thetvapp.to/hls/HallmarkDrama.m3u8?token=ScNWX8imRwCeyeNuplgubA&expires=1720267292
+#EXTINF:-1 tvg-id="" tvg-name="HALLMARK MOVIES MYSTERIES HD LIVE STREAM" tvg-logo="https://int.klcis.cc/img/hallmark-movies-mysteries-hd-live-stream.png" group-title="All Channels" , HALLMARK MOVIES MYSTERIES HD LIVE STREAM
+https://v4.thetvapp.to/hls/HallmarkMoviesMysteriesEast.m3u8?token=rCKUSMNeMp65PlYU5vMTRg&expires=1720267297
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 EAST LIVE STREAM" tvg-logo="https://int.klcis.cc/img/hbo-2-east-live-stream.png" group-title="All Channels" , HBO 2 EAST LIVE STREAM
+https://v4.thetvapp.to/hls/HBO2East.m3u8?token=PMS-3qpuA5SjIqik-GJhKw&expires=1720267298
+#EXTINF:-1 tvg-id="" tvg-name="HBO COMEDY HD LIVE STREAM" tvg-logo="https://int.klcis.cc/img/hbo-comedy-hd-live-stream.png" group-title="All Channels" , HBO COMEDY HD LIVE STREAM
+https://v4.thetvapp.to/hls/HBOComedyEast.m3u8?token=IQq5bv0Vj_-0tBDwJtTrQg&expires=1720267298
+#EXTINF:-1 tvg-id="" tvg-name="HBO EAST LIVE STREAM" tvg-logo="https://int.klcis.cc/img/hbo-east-live-stream.png" group-title="All Channels" , HBO EAST LIVE STREAM
+https://v4.thetvapp.to/hls/HBOEast.m3u8?token=qH15nPlj_kBgu4YIPG8vew&expires=1720267300
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY EAST LIVE STREAM" tvg-logo="https://int.klcis.cc/img/hbo-family-east-live-stream.png" group-title="All Channels" , HBO FAMILY EAST LIVE STREAM
+https://v4.thetvapp.to/hls/HBOFamilyEast.m3u8?token=sj_6pyQVNDDRZV8_PH8TTg&expires=1720267300
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE LIVE STREAM" tvg-logo="https://int.klcis.cc/img/hbo-signature-live-stream.png" group-title="All Channels" , HBO SIGNATURE LIVE STREAM
+https://v4.thetvapp.to/hls/HBOSignatureEast.m3u8?token=afBm7kqxKlbJ3tFaeRvTHA&expires=1720267306
+#EXTINF:-1 tvg-id="" tvg-name="HBO ZONE HD LIVE STREAM" tvg-logo="https://int.klcis.cc/img/hbo-zone-hd-live-stream.png" group-title="All Channels" , HBO ZONE HD LIVE STREAM
+https://v4.thetvapp.to/hls/HBOZoneEast.m3u8?token=wnxTqKV5FcVn56DJSVr8Eg&expires=1720267308
+#EXTINF:-1 tvg-id="" tvg-name="HGTV LIVE STREAM" tvg-logo="https://int.klcis.cc/img/hgtv-live-stream.png" group-title="All Channels" , HGTV LIVE STREAM
+https://v4.thetvapp.to/hls/HGTVEast.m3u8?token=bOaCiUDe8q60m8rmVofW2w&expires=1720267307
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY LIVE STREAM" tvg-logo="https://int.klcis.cc/img/history-live-stream.png" group-title="All Channels" , HISTORY LIVE STREAM
+https://v4.thetvapp.to/hls/HistoryEast.m3u8?token=ZAtJMC1JJeWytjSgJekVOg&expires=1720267308
+#EXTINF:-1 tvg-id="" tvg-name="HLN LIVE STREAM" tvg-logo="https://int.klcis.cc/img/hln-live-stream.png" group-title="All Channels" , HLN LIVE STREAM
+https://v4.thetvapp.to/hls/HLN.m3u8?token=UzApkwjiawGGa1UKTM3ddA&expires=1720267309
+#EXTINF:-1 tvg-id="" tvg-name="IFC LIVE STREAM" tvg-logo="https://int.klcis.cc/img/ifc-live-stream.png" group-title="All Channels" , IFC LIVE STREAM
+https://v4.thetvapp.to/hls/IFCEast.m3u8?token=kdbq8myDFIcWEJlhmONYiw&expires=1720267314
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY LIVE STREAM" tvg-logo="https://int.klcis.cc/img/investigation-discovery-live-stream.png" group-title="All Channels" , INVESTIGATION DISCOVERY LIVE STREAM
+https://v4.thetvapp.to/hls/InvestigationDiscoveryEast.m3u8?token=DOx7XH2OAgnuBSSfszt3fg&expires=1720267316
+#EXTINF:-1 tvg-id="" tvg-name="ION TELEVISION EAST HD LIVE STREAM" tvg-logo="https://int.klcis.cc/img/ion-television-east-hd-live-stream.png" group-title="All Channels" , ION TELEVISION EAST HD LIVE STREAM
+https://v4.thetvapp.to/hls/IONTVEast.m3u8?token=4K8gCfRBrPfpAPHisNk-Kw&expires=1720267317
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME LIVE STREAM" tvg-logo="https://int.klcis.cc/img/lifetime-live-stream.png" group-title="All Channels" , LIFETIME LIVE STREAM
+https://v4.thetvapp.to/hls/LifetimeEast.m3u8?token=3KSDAggzSmABq_R0nlWHwg&expires=1720267318
+#EXTINF:-1 tvg-id="" tvg-name="LMN LIVE STREAM" tvg-logo="https://int.klcis.cc/img/lmn-live-stream.png" group-title="All Channels" , LMN LIVE STREAM
+https://v4.thetvapp.to/hls/LifetimeMoviesEast.m3u8?token=dQOfd4_PTeIxKncsqAQLBg&expires=1720267318
+#EXTINF:-1 tvg-id="" tvg-name="LOGO LIVE STREAM" tvg-logo="https://int.klcis.cc/img/logo-live-stream.png" group-title="All Channels" , LOGO LIVE STREAM
+https://v4.thetvapp.to/hls/LogoEast.m3u8?token=QL7apdXfvX5aE4fVPqGkHQ&expires=1720267323
+#EXTINF:-1 tvg-id="" tvg-name="MLB NETWORK LIVE STREAM" tvg-logo="https://int.klcis.cc/img/mlb-network-live-stream.png" group-title="All Channels" , MLB NETWORK LIVE STREAM
+https://v4.thetvapp.to/hls/MLBNetwork.m3u8?token=D-Dicq-i8AkGNTbHuCT1ZA&expires=1720267324
+#EXTINF:-1 tvg-id="" tvg-name="MOREMAX LIVE STREAM" tvg-logo="https://int.klcis.cc/img/moremax-live-stream.png" group-title="All Channels" , MOREMAX LIVE STREAM
+https://v4.thetvapp.to/hls/MoreMaxEast.m3u8?token=eqvRPpwnumqWYbxA1WlOyQ&expires=1720267325
+#EXTINF:-1 tvg-id="" tvg-name="MOTORTREND HD LIVE STREAM" tvg-logo="https://int.klcis.cc/img/motortrend-hd-live-stream.png" group-title="All Channels" , MOTORTREND HD LIVE STREAM
+https://v4.thetvapp.to/hls/Motortrend.m3u8?token=Z54hrTmflvpXpZX2MgGu4w&expires=1720267327
+#EXTINF:-1 tvg-id="" tvg-name="MOVIEMAX LIVE STREAM" tvg-logo="https://int.klcis.cc/img/moviemax-live-stream.png" group-title="All Channels" , MOVIEMAX LIVE STREAM
+https://v4.thetvapp.to/hls/MovieMaxEast.m3u8?token=kOl0oAv3iQXwBlfxTxOGKw&expires=1720267328
+#EXTINF:-1 tvg-id="" tvg-name="MSNBC LIVE STREAM" tvg-logo="https://int.klcis.cc/img/msnbc-live-stream.png" group-title="All Channels" , MSNBC LIVE STREAM
+https://v4.thetvapp.to/hls/MSNBC.m3u8?token=r1nAFvEvu3ccxSBpYKrbvA&expires=1720267333
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE STREAM" tvg-logo="https://int.klcis.cc/img/mtv-live-stream.png" group-title="All Channels" , MTV LIVE STREAM
+https://v4.thetvapp.to/hls/MTVEast.m3u8?token=ikqebuBec-9SAdKs8vX-4w&expires=1720267333
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD LIVE STREAM" tvg-logo="https://int.klcis.cc/img/nat-geo-wild-live-stream.png" group-title="All Channels" , NAT GEO WILD LIVE STREAM
+https://v4.thetvapp.to/hls/NationalGeographicWildEast.m3u8?token=CqpA8LpfdknCZNajOdGzXQ&expires=1720267333
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC LIVE STREAM" tvg-logo="https://int.klcis.cc/img/national-geographic-live-stream.png" group-title="All Channels" , NATIONAL GEOGRAPHIC LIVE STREAM
+https://v4.thetvapp.to/hls/NationalGeographicEast.m3u8?token=f9L65y6zLttoljRNZ9PxfA&expires=1720267335
+#EXTINF:-1 tvg-id="" tvg-name="NEWSMAX TV" tvg-logo="https://int.klcis.cc/img/newsmax-tv.png" group-title="All Channels" , NEWSMAX TV
+https://v4.thetvapp.to/hls/NewsmaxTV.m3u8?token=VD1e7sL5LqwyCb5EatuFMg&expires=1720267341
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV LIVE STREAM" tvg-logo="https://int.klcis.cc/img/nba-tv-live-stream.png" group-title="All Channels" , NBA TV LIVE STREAM
+https://v4.thetvapp.to/hls/NBATV.m3u8?token=3fW6F_4jaTMCfjMm4gjK-g&expires=1720267337
+#EXTINF:-1 tvg-id="" tvg-name="NFL NETWORK LIVE STREAM" tvg-logo="https://int.klcis.cc/img/nfl-network-live-stream.png" group-title="All Channels" , NFL NETWORK LIVE STREAM
+https://v4.thetvapp.to/hls/NFLNetwork.m3u8?token=5pbJi2JHy1ZlnOG5N3Xauw&expires=1720267342
+#EXTINF:-1 tvg-id="" tvg-name="NFL RED ZONE" tvg-logo="https://int.klcis.cc/img/nfl-red-zone.png" group-title="All Channels" , NFL RED ZONE
+https://v4.thetvapp.to/hls/NFLRedZone.m3u8?token=3gfRbgmdZABx7mJhwXMt-w&expires=1720267342
+#EXTINF:-1 tvg-id="" tvg-name="NHL NETWORK LIVE STREAM" tvg-logo="https://int.klcis.cc/img/nhl-network-live-stream.png" group-title="All Channels" , NHL NETWORK LIVE STREAM
+https://v4.thetvapp.to/hls/NHLNetwork.m3u8?token=1RdR3WzK-s0jo5t4nlqvzw&expires=1720267342
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR LIVE STREAM" tvg-logo="https://int.klcis.cc/img/nick-jr-live-stream.png" group-title="All Channels" , NICK JR LIVE STREAM
+https://v4.thetvapp.to/hls/NickJrEast.m3u8?token=mcFA_eGaWtGds-ivXeZoig&expires=1720267345
+#EXTINF:-1 tvg-id="" tvg-name="NICKTOONS LIVE STREAM" tvg-logo="https://int.klcis.cc/img/nicktoons-live-stream.png" group-title="All Channels" , NICKTOONS LIVE STREAM
+https://v4.thetvapp.to/hls/NicktoonsEast.m3u8?token=j5zkrvsMPJRrI97h1ZTDKA&expires=1720267351
+#EXTINF:-1 tvg-id="" tvg-name="OUTDOOR CHANNEL LIVE STREAM" tvg-logo="https://int.klcis.cc/img/outdoor-channel-live-stream.png" group-title="All Channels" , OUTDOOR CHANNEL LIVE STREAM
+https://v4.thetvapp.to/hls/OutdoorChannel.m3u8?token=DH0G_HO8ZN5lr5u6_LfcWw&expires=1720267352
+#EXTINF:-1 tvg-id="" tvg-name="OWN LIVE STREAM" tvg-logo="https://int.klcis.cc/img/own-live-stream.png" group-title="All Channels" , OWN LIVE STREAM
+https://v4.thetvapp.to/hls/OWNEast.m3u8?token=3rkGzc194XLQPPRjDZWaQw&expires=1720267352
+#EXTINF:-1 tvg-id="" tvg-name="OXYGEN TRUE CRIME LIVE STREAM" tvg-logo="https://int.klcis.cc/img/oxygen-true-crime-live-stream.png" group-title="All Channels" , OXYGEN TRUE CRIME LIVE STREAM
+https://v4.thetvapp.to/hls/OxygenEast.m3u8?token=lfXMer-QA-nsa9IYlcIYvw&expires=1720267352
+#EXTINF:-1 tvg-id="" tvg-name="REELZCHANNEL LIVE STREAM" tvg-logo="https://int.klcis.cc/img/reelzchannel-live-stream.png" group-title="All Channels" , REELZCHANNEL LIVE STREAM
+https://v4.thetvapp.to/hls/Reelz.m3u8?token=FngnXaQ_mZPzL4k0UZMyPg&expires=1720267361
+#EXTINF:-1 tvg-id="" tvg-name="PBS 13 WNET NEW YORK LIVE STREAM" tvg-logo="https://int.klcis.cc/img/pbs-13-wnet-new-york-live-stream.png" group-title="All Channels" , PBS 13 WNET NEW YORK LIVE STREAM
+https://v4.thetvapp.to/hls/WNET.m3u8?token=MzkbCszv1KyTIuY-8ayGDA&expires=1720267359
+#EXTINF:-1 tvg-id="" tvg-name="SCIENCE LIVE STREAM" tvg-logo="https://int.klcis.cc/img/science-live-stream.png" group-title="All Channels" , SCIENCE LIVE STREAM
+https://v4.thetvapp.to/hls/Science.m3u8?token=WqIeRv2BwYQEp8K09hd7dA&expires=1720267362
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME E LIVE STREAM" tvg-logo="https://int.klcis.cc/img/showtime-e-live-stream.png" group-title="All Channels" , SHOWTIME E LIVE STREAM
+https://v4.thetvapp.to/hls/ShowtimeEast.m3u8?token=b9n0KNIOnyrvv2_900Fgxg&expires=1720267361
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME 2 LIVE STREAM" tvg-logo="https://int.klcis.cc/img/showtime-2-live-stream.png" group-title="All Channels" , SHOWTIME 2 LIVE STREAM
+https://v4.thetvapp.to/hls/Showtime2East.m3u8?token=jAI-zU8nwltGIZkUozOiaw&expires=1720267367
+#EXTINF:-1 tvg-id="" tvg-name="STARZ EAST LIVE STREAM" tvg-logo="https://int.klcis.cc/img/starz-east-live-stream.png" group-title="All Channels" , STARZ EAST LIVE STREAM
+https://v4.thetvapp.to/hls/StarzEast.m3u8?token=DAs1x6jMeBkvof_EHrmbyw&expires=1720267370
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCETV HD LIVE STREAM" tvg-logo="https://int.klcis.cc/img/sundancetv-hd-live-stream.png" group-title="All Channels" , SUNDANCETV HD LIVE STREAM
+https://v4.thetvapp.to/hls/SundanceTVEast.m3u8?token=8Zb_BVkUvhIHpxs5NKyGaw&expires=1720267371
+#EXTINF:-1 tvg-id="" tvg-name="SYFY LIVE STREAM" tvg-logo="https://int.klcis.cc/img/syfy-live-stream.png" group-title="All Channels" , SYFY LIVE STREAM
+https://v4.thetvapp.to/hls/SyfyEast.m3u8?token=zyslf64VJYe_Co29WlUHRw&expires=1720267372
+#EXTINF:-1 tvg-id="" tvg-name="TBS LIVE STREAM" tvg-logo="https://int.klcis.cc/img/tbs-live-stream.png" group-title="All Channels" , TBS LIVE STREAM
+https://v4.thetvapp.to/hls/TBSEast.m3u8?token=D8ZAuCTswKslpaqFrB1Keg&expires=1720267376
+#EXTINF:-1 tvg-id="" tvg-name="TCM LIVE STREAM" tvg-logo="https://int.klcis.cc/img/tcm-live-stream.png" group-title="All Channels" , TCM LIVE STREAM
+https://v4.thetvapp.to/hls/TCMEast.m3u8?token=TE6QDk9dwpUpKiGkdBfUCw&expires=1720267377
+#EXTINF:-1 tvg-id="" tvg-name="TEENNICK LIVE STREAM" tvg-logo="https://int.klcis.cc/img/teennick-live-stream.png" group-title="All Channels" , TEENNICK LIVE STREAM
+https://v4.thetvapp.to/hls/TeenNickEast.m3u8?token=cBdSKKnFv9VAeb9Gcf2HLw&expires=1720267378
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL LIVE STREAM" tvg-logo="https://int.klcis.cc/img/tennis-channel-live-stream.png" group-title="All Channels" , TENNIS CHANNEL LIVE STREAM
+https://v4.thetvapp.to/hls/TennisChannel.m3u8?token=YcEnVz3vpUFyLQcj0SZjVA&expires=1720267383
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO EAST LIVE STREAM" tvg-logo="https://int.klcis.cc/img/telemundo-east-live-stream.png" group-title="All Channels" , TELEMUNDO EAST LIVE STREAM
+https://v4.thetvapp.to/hls/TelemundoEast.m3u8?token=L4-1gzry8gq9cP874WsAOg&expires=1720267379
+#EXTINF:-1 tvg-id="" tvg-name="THE CW LIVE STREAM" tvg-logo="https://int.klcis.cc/img/the-cw-live-stream.png" group-title="All Channels" , THE CW LIVE STREAM
+https://v4.thetvapp.to/hls/WPIX.m3u8?token=OgRBW-yWLVZRopGCIET-Rg&expires=1720267384
+#EXTINF:-1 tvg-id="" tvg-name="THE MOVIE CHANNEL EAST LIVE STREAM" tvg-logo="https://int.klcis.cc/img/the-movie-channel-east-live-stream.png" group-title="All Channels" , THE MOVIE CHANNEL EAST LIVE STREAM
+https://v4.thetvapp.to/hls/TheMovieChannelEast.m3u8?token=7Z_905XCtI7jKJLKTZVR0w&expires=1720267385
+#EXTINF:-1 tvg-id="" tvg-name="THE WEATHER CHANNEL LIVE STREAM" tvg-logo="https://int.klcis.cc/img/the-weather-channel-live-stream.png" group-title="All Channels" , THE WEATHER CHANNEL LIVE STREAM
+https://v4.thetvapp.to/hls/TheWeatherChannel.m3u8?token=ZYdg2xPpE_nQhP3zX6uYKQ&expires=1720267386
+#EXTINF:-1 tvg-id="" tvg-name="TLC LIVE STREAM" tvg-logo="https://int.klcis.cc/img/tlc-live-stream.png" group-title="All Channels" , TLC LIVE STREAM
+https://v4.thetvapp.to/hls/TLCEast.m3u8?token=ZupQB8-R0chPYp2jexNQaw&expires=1720267390
+#EXTINF:-1 tvg-id="" tvg-name="TNT LIVE STREAM" tvg-logo="https://int.klcis.cc/img/tnt-live-stream.png" group-title="All Channels" , TNT LIVE STREAM
+https://v4.thetvapp.to/hls/TNTEast.m3u8?token=UrWXQs8O3zE-RVscX0Hj5w&expires=1720267391
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL LIVE STREAM" tvg-logo="https://int.klcis.cc/img/travel-channel-live-stream.png" group-title="All Channels" , TRAVEL CHANNEL LIVE STREAM
+https://v4.thetvapp.to/hls/TravelChannelEast.m3u8?token=b0Rb8B57sJvvB1azurg-Gw&expires=1720267392
+#EXTINF:-1 tvg-id="" tvg-name="TRUTV LIVE STREAM" tvg-logo="https://int.klcis.cc/img/trutv-live-stream.png" group-title="All Channels" , TRUTV LIVE STREAM
+https://v4.thetvapp.to/hls/truTVEast.m3u8?token=5-t2ffi2ZBdNTb_CgK-8EQ&expires=1720267393
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE HD LIVE STREAM" tvg-logo="https://int.klcis.cc/img/tv-one-hd-live-stream.png" group-title="All Channels" , TV ONE HD LIVE STREAM
+https://v4.thetvapp.to/hls/TVOne.m3u8?token=Q3wWhqndw_S68pNSLQMDZQ&expires=1720267397
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL KIDS LIVE STREAM" tvg-logo="https://int.klcis.cc/img/universal-kids-live-stream.png" group-title="All Channels" , UNIVERSAL KIDS LIVE STREAM
+https://v4.thetvapp.to/hls/UniversalKidsEast.m3u8?token=o0v5ETlVTT-WLOASGb3R_A&expires=1720267398
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION EAST LIVE STREAM" tvg-logo="https://int.klcis.cc/img/univision-east-live-stream.png" group-title="All Channels" , UNIVISION EAST LIVE STREAM
+https://v4.thetvapp.to/hls/UnivisionEast.m3u8?token=HQPimxJfJC2E9b7fn5iqPA&expires=1720267398
+#EXTINF:-1 tvg-id="" tvg-name="USA NETWORK LIVE STREAM" tvg-logo="https://int.klcis.cc/img/usa-network-live-stream.png" group-title="All Channels" , USA NETWORK LIVE STREAM
+https://v4.thetvapp.to/hls/USANetworkEast.m3u8?token=KNYq-KhJwVZRiD_EgAsZAA&expires=1720267400
+#EXTINF:-1 tvg-id="" tvg-name="VH1 LIVE STREAM" tvg-logo="https://int.klcis.cc/img/vh1-live-stream.png" group-title="All Channels" , VH1 LIVE STREAM
+https://v4.thetvapp.to/hls/VH1East.m3u8?token=QQQric-dSbyTa8MAN-QK2g&expires=1720267405
+#EXTINF:-1 tvg-id="" tvg-name="VICE LIVE STREAM" tvg-logo="https://int.klcis.cc/img/vice-live-stream.png" group-title="All Channels" , VICE LIVE STREAM
+https://v4.thetvapp.to/hls/VICETV.m3u8?token=2zRHrkFo5dH4cLxVuqghaQ&expires=1720267405
+#EXTINF:-1 tvg-id="" tvg-name="WABC NEW YORK ABC EAST LIVE STREAM" tvg-logo="https://int.klcis.cc/img/wabc-new-york-abc-east-live-stream.png" group-title="All Channels" , WABC NEW YORK ABC EAST LIVE STREAM
+https://v4.thetvapp.to/hls/WABCDT1.m3u8?token=82-cU0X4x79-Qee1hhIDKw&expires=1720267405
+#EXTINF:-1 tvg-id="" tvg-name="WCBS NEW YORK CBS EAST LIVE STREAM" tvg-logo="https://int.klcis.cc/img/wcbs-new-york-cbs-east-live-stream.png" group-title="All Channels" , WCBS NEW YORK CBS EAST LIVE STREAM
+https://v4.thetvapp.to/hls/WCBSDT1.m3u8?token=PRftmRBK3sxw4iz2eVFduA&expires=1720267406
+#EXTINF:-1 tvg-id="" tvg-name="WE TV LIVE STREAM" tvg-logo="https://int.klcis.cc/img/we-tv-live-stream.png" group-title="All Channels" , WE TV LIVE STREAM
+https://v4.thetvapp.to/hls/WeTVEast.m3u8?token=Q-frcc54K_Or4w0HmJsNCw&expires=1720267412
+#EXTINF:-1 tvg-id="" tvg-name="WNBC NEW YORK NBC EAST LIVE STREAM" tvg-logo="https://int.klcis.cc/img/wnbc-new-york-nbc-east-live-stream.png" group-title="All Channels" , WNBC NEW YORK NBC EAST LIVE STREAM
+https://v4.thetvapp.to/hls/WNBCDT1.m3u8?token=56FMOF_FJ9Q-gOPn-OuLLg&expires=1720267412
+#EXTINF:-1 tvg-id="" tvg-name="WNYW NEW YORK FOX EAST LIVE STREAM" tvg-logo="https://int.klcis.cc/img/wnyw-new-york-fox-east-live-stream.png" group-title="All Channels" , WNYW NEW YORK FOX EAST LIVE STREAM
+https://v4.thetvapp.to/hls/WNYWDT1.m3u8?token=9UbqXDg13dWj4yETFqgFQQ&expires=1720267412
