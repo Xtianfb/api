@@ -2,7 +2,7 @@
     {
         "name": "Kapamilya Channel",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Kapamilya_channel.png",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/nxnk3Fgbtvw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/nxnk3Fgbtvw&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     },
     {
         "name": "GMA",
