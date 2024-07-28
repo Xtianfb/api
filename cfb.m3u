@@ -48,7 +48,7 @@ https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Arirang.svg" group-title="CFBTV",Arirang
-https://cdn1.skygo.mn/live/disk1/Arirang/HLS-FTA/Arirang.m3u8
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://unlocator.com/wp-content/uploads/2019/02/asiancrush-1.svg" group-title="CFBTV",Asian Crush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
