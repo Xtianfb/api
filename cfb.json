@@ -12,8 +12,8 @@
     },
     {
         "name": "Kapuso Stream",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fa/KapusoStream.png/revision/latest?cb=20220801081750",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/live/co4_LghzUqk?si=cqDm9zk2qtGnfvAk?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fa/KapusoStream.png",
+        "link": "<iframe id=\"iptvplayer\" src=\"https://youtu.be/co4_LghzUqk?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
 
     }
     {
