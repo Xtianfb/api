@@ -9,5 +9,17 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png",
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/BJ3Yv572V1A?si=D89m0F3lxgVxteKB?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
 
+    },
+    {
+        "name": "Kapuso Stream",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fa/KapusoStream.png/revision/latest?cb=20220801081750",
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/live/co4_LghzUqk?si=cqDm9zk2qtGnfvAk?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+
+    }
+    {
+        "name": "Nat Geo WILD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png",
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/BJ3Yv572V1A?si=D89m0F3lxgVxteKB?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+
     }
 ]
