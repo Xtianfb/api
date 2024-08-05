@@ -43,5 +43,10 @@
         "name": "UNTV",
         "logo": "https://yt3.googleusercontent.com/ZPWdN5qzZzQcA4QmkvwmLi0etlQh9kaZEdd9ajS1LQexj91gi_cysXVFFRB0yZbRgpcUcQXnqw=s160-c-k-c0x00ffffff-no-rj",
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/FgW4dJZRIgs?si=kK3dv4HWbrovxtxw?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    {
+        "name": "Love Radio Manila",
+        "logo": "https://yt3.googleusercontent.com/tVsr4LTwR9ogq7lu2trDMbO7cf7pBkv_uNfiPw0pgpJO3jisWS-WNB93UZII86WShqptrDJVDw=s160-c-k-c0x00ffffff-no-rj",
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UC934DvzBQQnB5qBJpc50obg&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     }
 ]
