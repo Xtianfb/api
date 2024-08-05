@@ -38,5 +38,10 @@
         "name": "GTV",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/220px-GTV_Philippines_Logo_Vector.svg.png",
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCqYw-CTd1dU2yGI71sEyqNw&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    {
+        "name": "PTV",
+        "logo": "https://yt3.googleusercontent.com/WVCUpqgW8D4aUU4xTRxkk4fMxtqCVGXou1FiDaer9HnSY6T8GhhDcDJYeTUWanCEBDi18JPjsg=s160-c-k-c0x00ffffff-no-rj",
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCJCUbMaY593_4SN1QPG7NFQ&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     }
 ]
