@@ -37,11 +37,11 @@
     {
         "name": "News5",
         "logo": "https://yt3.googleusercontent.com/W0tlUmeXL5xQAsgs4TImS46l7TGnmuUcJRttmoXSmT9Kznm8xns8EV6hYuN5alffb9tItWcw=s160-c-k-c0x00ffffff-no-rj",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/home?channel=UCGEbMwiX774cseKvJqF9R2g&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCGEbMwiX774cseKvJqF9R2g&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     },
     {
         "name": "UNTV",
         "logo": "https://yt3.googleusercontent.com/ZPWdN5qzZzQcA4QmkvwmLi0etlQh9kaZEdd9ajS1LQexj91gi_cysXVFFRB0yZbRgpcUcQXnqw=s160-c-k-c0x00ffffff-no-rj",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UC3XaG-7UVi2vD8ZZEMNnnpw&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/home?channel=UC3XaG-7UVi2vD8ZZEMNnnpw&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     }
 ]
