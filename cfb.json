@@ -33,5 +33,10 @@
         "name": "Teleradyo Serbisyo",
         "logo": "https://yt3.googleusercontent.com/GChp-fMVoCiycqgRENEyXsHsOWx2T5pwFl3FPNYJ4vWedfWoUWuAjUPZs3Fs6N3a8yhPzTjdjQ=s160-c-k-c0x00ffffff-no-rj",
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/JWWoY-mJfq4?si=4MfH6W7GFkxOgKvy?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    {
+        "name": "GTV",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/220px-GTV_Philippines_Logo_Vector.svg.png",
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/s555p8G2bkU?si=71Sn6C5W-gognDSU?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     }
 ]
