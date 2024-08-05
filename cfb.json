@@ -43,5 +43,10 @@
         "name": "Love Radio Manila",
         "logo": "https://yt3.googleusercontent.com/tVsr4LTwR9ogq7lu2trDMbO7cf7pBkv_uNfiPw0pgpJO3jisWS-WNB93UZII86WShqptrDJVDw=s160-c-k-c0x00ffffff-no-rj",
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UC934DvzBQQnB5qBJpc50obg&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+    },
+    {
+        "name": "Teleradyo Serbisyo",
+        "logo": "https://yt3.googleusercontent.com/GChp-fMVoCiycqgRENEyXsHsOWx2T5pwFl3FPNYJ4vWedfWoUWuAjUPZs3Fs6N3a8yhPzTjdjQ=s160-c-k-c0x00ffffff-no-rj",
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/watch?v=S_QgoDeWslk&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     }
 ]
