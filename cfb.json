@@ -28,5 +28,10 @@
         "name": "TV 5",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/200px-TV5_%28Philippines%29_logo.svg.png",
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/mIzcyjKAuTA?si=s4qCRvJLy8tVCVhz?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    {
+        "name": "Teleradyo Serbisyo",
+        "logo": "https://yt3.googleusercontent.com/GChp-fMVoCiycqgRENEyXsHsOWx2T5pwFl3FPNYJ4vWedfWoUWuAjUPZs3Fs6N3a8yhPzTjdjQ=s160-c-k-c0x00ffffff-no-rj",
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/JWWoY-mJfq4?si=4MfH6W7GFkxOgKvy?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     }
 ]
