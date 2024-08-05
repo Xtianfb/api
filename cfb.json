@@ -42,6 +42,6 @@
     {
         "name": "PTV",
         "logo": "https://yt3.googleusercontent.com/WVCUpqgW8D4aUU4xTRxkk4fMxtqCVGXou1FiDaer9HnSY6T8GhhDcDJYeTUWanCEBDi18JPjsg=s160-c-k-c0x00ffffff-no-rj",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/EmXyDt7-qks?si=NGVPgGbANqyuer79?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/EmXyDt7-qks?si=H6pSosS1hl4-yVWi?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     }
 ]
