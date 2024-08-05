@@ -27,7 +27,7 @@
     {
         "name": "TV 5",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/200px-TV5_%28Philippines%29_logo.svg.png",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/mIzcyjKAuTA?si=s4qCRvJLy8tVCVhz?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/WJc37rQhtVI?si=JgLxpcSOAEMcPFZY?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     },
     {
         "name": "Teleradyo Serbisyo",
