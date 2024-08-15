@@ -35,8 +35,8 @@
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCcTiBX8js_djhSSlmJRI99A&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     },
     {
-        "name": "TV5",
-        "logo": "https://yt3.googleusercontent.com/UiG4cg6SqmNp2VaY-CfmtccLG3ZZKINL8uhBaT6VmbqnTsYA7Ua7N3-inNO4zj149jiF2L3jWg=s160-c-k-c0x00ffffff-no-rj",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/6y19hjtuzFk?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+        "name": "News5Everywhere",
+        "logo": "https://yt3.googleusercontent.com/W0tlUmeXL5xQAsgs4TImS46l7TGnmuUcJRttmoXSmT9Kznm8xns8EV6hYuN5alffb9tItWcw=s160-c-k-c0x00ffffff-no-rj",
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCGEbMwiX774cseKvJqF9R2g&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     }
 ]
