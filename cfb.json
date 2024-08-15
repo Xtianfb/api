@@ -35,6 +35,11 @@
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCcTiBX8js_djhSSlmJRI99A&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     },
     {
+        "name": "TELERADYO SERBISYO",
+        "logo": "https://yt3.googleusercontent.com/GChp-fMVoCiycqgRENEyXsHsOWx2T5pwFl3FPNYJ4vWedfWoUWuAjUPZs3Fs6N3a8yhPzTjdjQ=s160-c-k-c0x00ffffff-no-rj",
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCs_VNu-FQ0WcJnD4QkmIL5w&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+    },
+    {
         "name": "News5Everywhere",
         "logo": "https://yt3.googleusercontent.com/W0tlUmeXL5xQAsgs4TImS46l7TGnmuUcJRttmoXSmT9Kznm8xns8EV6hYuN5alffb9tItWcw=s160-c-k-c0x00ffffff-no-rj",
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/l52H_N55-1c?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
