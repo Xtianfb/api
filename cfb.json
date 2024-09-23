@@ -1,10 +1,5 @@
 [
     {
-        "name": "Eat Bulaga TVJ",
-        "logo": "https://yt3.googleusercontent.com/NIUU78OOCZMEciXKsZrldiZC4O-PNEcLiL08rwJ-syQGGcUBs_nDNzuoztZiKDz-6gbYqXFkCpw=s160-c-k-c0x00ffffff-no-rj",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCby04dl3oIxkDoZil8xP_FA&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
-    },
-    {
         "name": "Kapamilya Online Live",
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lsT-b6Oht3l9M9040h4ga7nNrh5CBOqrx-Hncsccq5bl8=s160-c-k-c0x00ffffff-no-rj",
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCstEtN0pgOmCf02EdXsGChw&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
@@ -38,10 +33,5 @@
         "name": "TELERADYO SERBISYO",
         "logo": "https://yt3.googleusercontent.com/GChp-fMVoCiycqgRENEyXsHsOWx2T5pwFl3FPNYJ4vWedfWoUWuAjUPZs3Fs6N3a8yhPzTjdjQ=s160-c-k-c0x00ffffff-no-rj",
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCs_VNu-FQ0WcJnD4QkmIL5w&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
-    },
-    {
-        "name": "News5Everywhere",
-        "logo": "https://yt3.googleusercontent.com/W0tlUmeXL5xQAsgs4TImS46l7TGnmuUcJRttmoXSmT9Kznm8xns8EV6hYuN5alffb9tItWcw=s160-c-k-c0x00ffffff-no-rj",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/l52H_N55-1c?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     }
 ]
