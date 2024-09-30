@@ -10,16 +10,6 @@
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCKL5hAuzgFQsyrsQKgU0Qng&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     },
     {
-        "name": "National Geographic",
-        "logo": "https://yt3.googleusercontent.com/bOmqDNEBUJods7e6RnKi8ML_8-IW39uBuHwURGrPstqnu3X_iyO02EedWwQx2jpvBpK9HNax=s160-c-k-c0x00ffffff-no-rj",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/P2v3qxRsxpU?si=cGZyvgHPX81TrYFZ?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
-    },
-    {
-        "name": "Nat Geo WILD",
-        "logo": "https://yt3.googleusercontent.com/RRL8O751UsFCCL1U6tVCLlWr19skngM4dbAEb6EGE4Rcqqz842sf9bQGBk3IfnPlkcFvNyknyA=s160-c-k-c0x00ffffff-no-rj",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/BJ3Yv572V1A?enablejsapi=1&origin=http://youtube.com&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
-    },
-    {
         "name": "DZRH",
         "logo": "https://yt3.googleusercontent.com/ru7PnoJsLdba3X0yMrOh3BBFb3yU7D1deI-1IO5SoKd5WY23sYHvhyV0MhJzxBSeXIs7E-4pYw=s160-c-k-c0x00ffffff-no-rj",
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCcTiBX8js_djhSSlmJRI99A&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
