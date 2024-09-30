@@ -21,7 +21,7 @@ https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title=""CFBTV",National Geographic
-https://live-fi.tvkaista.net/national-geographic/live.m3u8
+https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=videojs
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title=""CFBTV",NatGeo Wild
 https://stream02.vnet.am/NatGeoWild/mono.m3u8
