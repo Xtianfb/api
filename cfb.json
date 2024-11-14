@@ -20,6 +20,11 @@
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/8NzSvaSMlog?channel=UCs_VNu-FQ0WcJnD4QkmIL5w&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     },
     {
+        "name": "DZRJ",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/VOP_Logo.jpg/200px-VOP_Logo.jpg",
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/YwpSVVPY-5g?channel=UC1f5yN0Hdibzm3JqqUswKvA&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    {
         "name": "DZBB",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/250px-DZBB594.svg.png",
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/NGaJjIfZ2f4?channel=UCKL5hAuzgFQsyrsQKgU0Qng&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
