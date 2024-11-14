@@ -10,6 +10,11 @@
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCKL5hAuzgFQsyrsQKgU0Qng&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     },
     {
+        "name": "PTV Philippines",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/PTV_4_Para_Sa_Bayan_Logo_June_2017.svg/240px-PTV_4_Para_Sa_Bayan_Logo_June_2017.svg.png",
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/TrCXaRCs5vc?channel=UCJCUbMaY593_4SN1QPG7NFQ&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    {
         "name": "DZRH",
         "logo": "https://yt3.googleusercontent.com/ru7PnoJsLdba3X0yMrOh3BBFb3yU7D1deI-1IO5SoKd5WY23sYHvhyV0MhJzxBSeXIs7E-4pYw=s160-c-k-c0x00ffffff-no-rj",
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCcTiBX8js_djhSSlmJRI99A&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
