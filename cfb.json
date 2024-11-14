@@ -23,5 +23,10 @@
         "name": "DZBB",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/250px-DZBB594.svg.png",
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/NGaJjIfZ2f4?channel=UCKL5hAuzgFQsyrsQKgU0Qng&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    {
+        "name": "NET 25",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Net_25_Logo_2023.webp/220px-Net_25_Logo_2023.webp.png",
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/qp_8VWrJikA?channel=UC5IF8NlxMW1GkEUUqWJJBIw&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     }
 ]
