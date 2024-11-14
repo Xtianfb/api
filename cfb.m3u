@@ -6,7 +6,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="CFBTV",NET 25
-https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1731568889/ei/mFA1Z_6MO8PAvcAPrOzjsAY/ip/172.68.225.147/id/3ljrT-F9u2k.1/itag/91/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D139/sgovp/gir%3Dyes%3Bitag%3D160/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-2aqu-hoall.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/qtApAWLtOs5oPUSmGenBnU-FPKnEg4l79ONnqGL2jweJuw8aAwitUC4ChDZDyIg/vprv/1/playlist_type/DVR/initcwndbps/1013750/met/1731547289,/mh/yi/mip/49.149.138.111/mm/44/mn/sn-2aqu-hoall/ms/lva/mv/m/mvi/3/pcm2cms/yes/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51299154,51312688,51326932/mt/1731546988/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgIjaaf2BAo5mp1jXPTAmifgthsqi25DLbmj-MvXBhYuACID_g_Ju5jrAHw21EGej3n35qY9sMA1u1oO3_z64GSwYu/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/AGluJ3MwRQIhAKqmxI8hXh_ETgnbJ_-3ICwYWas6htxpsHXa9nxwCNw0AiBlPFuhD5HD7gxkytG6eBEcaWA8t2soZ2F5VLls7qtlNQ%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LiveNOW_from_FOX.png/250px-LiveNOW_from_FOX.png" group-title="CFBTV",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
