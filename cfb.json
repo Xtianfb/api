@@ -10,38 +10,13 @@
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCKL5hAuzgFQsyrsQKgU0Qng&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     },
     {
-        "name": "PTV Philippines",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/PTV_4_Para_Sa_Bayan_Logo_June_2017.svg/240px-PTV_4_Para_Sa_Bayan_Logo_June_2017.svg.png",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/TrCXaRCs5vc?channel=UCJCUbMaY593_4SN1QPG7NFQ&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
-    },
-    {
         "name": "DZRH",
         "logo": "https://yt3.googleusercontent.com/ru7PnoJsLdba3X0yMrOh3BBFb3yU7D1deI-1IO5SoKd5WY23sYHvhyV0MhJzxBSeXIs7E-4pYw=s160-c-k-c0x00ffffff-no-rj",
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCcTiBX8js_djhSSlmJRI99A&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     },
     {
-        "name": "TELERADYO SERBISYO",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/250px-TeleRadyo_Serbisyo_logo.svg.png",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/8NzSvaSMlog?channel=UCs_VNu-FQ0WcJnD4QkmIL5w&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
-    },
-    {
-        "name": "True FM",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TrueFM1059-logo.png/220px-TrueFM1059-logo.png",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/kmuJjRDz7Cs?channel=UCjUrQJqEIfO1e52faNzt04g&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
-    },
-    {
-        "name": "DZRJ",
-        "logo": "https://yt3.googleusercontent.com/QSCox8-MQvNc_nkf2AZJNe1Jr50A9w2A7ACHNUfuVSvfoU1xZYeQHQREuzWLFohq6CBH9dfE3lE=s160-c-k-c0x00ffffff-no-rj",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/YwpSVVPY-5g?channel=UC1f5yN0Hdibzm3JqqUswKvA&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
-    },
-    {
         "name": "DZBB",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/250px-DZBB594.svg.png",
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/NGaJjIfZ2f4?channel=UCKL5hAuzgFQsyrsQKgU0Qng&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
-    },
-    {
-        "name": "NET 25",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Net_25_Logo_2023.webp/220px-Net_25_Logo_2023.webp.png",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/qp_8VWrJikA?channel=UC5IF8NlxMW1GkEUUqWJJBIw&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     }
 ]
