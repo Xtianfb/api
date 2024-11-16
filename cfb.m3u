@@ -29,17 +29,11 @@ https://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="CFBTV",Discovery HD
 https://corsproxy.io/?https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/640px-Discovery_Asia_logo.svg.png" group-title="CFBTV",Discovery Asia
-https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="CFBTV",Animal Planet
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/200px-2018_Travel_Channel_logo.svg.png" group-title="CFBTV",Travel Channel
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/640px-CNN.svg.png" group-title="CFBTV",CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/200px-Aljazeera_eng.svg.png" group-title="CFBTV",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -79,9 +73,6 @@ https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/am
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/84hK02GVg2Z5ZWXzAbqprRstvVqvqlGxX1g00B06zXza9_FTZiTCTW9vlwqSuc2yvyH4=w240-h480-rw" group-title="CFBTV",Ondemand China
 https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Lotus_TV_Macau_logo.jpg/220px-Lotus_TV_Macau_logo.jpg" group-title="CFBTV",Lotus Macau
-https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg" group-title="CFBTV",Nick Jr.
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
