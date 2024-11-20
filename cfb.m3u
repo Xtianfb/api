@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="CFBT" ,PTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="CFBT",PTV
 https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qe1QqZh.png" group-title="CFBT" ,DZRH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qe1QqZh.png" group-title="CFBT",DZRH
 https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/1024px-TV5_%28Philippines%29_logo.svg.png" group-title="CFBTV",TV5
