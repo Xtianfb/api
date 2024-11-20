@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="CFBTV",HGTV
-https://dplus.gammacdn.workers.dev/videos/111.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="CFBTV",Food Network
-https://dplus.gammacdn.workers.dev/videos/112.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/1024px-TV5_%28Philippines%29_logo.svg.png" group-title="CFBTV",TV5
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 
@@ -40,6 +34,12 @@ https://dplus.gammacdn.workers.dev/videos/99.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/200px-2018_Travel_Channel_logo.svg.png" group-title="CFBTV",Travel Channel
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/200px-HGTV_2010.svg.png" group-title="CFBTV",HGTV
+https://dplus.gammacdn.workers.dev/videos/111.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="CFBTV",Food Network
+https://dplus.gammacdn.workers.dev/videos/112.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/200px-Aljazeera_eng.svg.png" group-title="CFBTV",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
