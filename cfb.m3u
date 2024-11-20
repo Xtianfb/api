@@ -38,10 +38,10 @@ https://corsproxy.io/?https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/640px-Discovery_Turbo.png" group-title="CFBTV",Discovery Turbo
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ID_INVESTIGATION_DISCOVERY.png/538px-ID_INVESTIGATION_DISCOVERY.png" group-title="CFBTV",Investigation Discovery
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/200px-InvestigationDiscoveryLogo2020.svg.png" group-title="CFBTV",Investigation Discovery
 https://corsproxy.io/?https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Dmax_tv-channel.png" group-title="CFBTV",DMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/200px-DMAX_BLACK.svg.png" group-title="CFBTV",DMAX
 https://dplus.gammacdn.workers.dev/videos/109.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="CFBTV",Animal Planet
