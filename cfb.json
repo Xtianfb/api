@@ -33,5 +33,10 @@
         "name": "GMA Integrated News",
         "logo": "https://yt3.googleusercontent.com/azfpRXk7nP4Sv7JhFG3i1_zdd9Nzi5QME2Drr6ZZ2Ft8Awq8G3gsImK2JmqseueLjBpheQufZg=s160-c-k-c0x00ffffff-no-rj",
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCqYw-CTd1dU2yGI71sEyqNw&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+    },
+    {
+        "name": "HGTV",
+        "logo": "https://yt3.googleusercontent.com/VnFEiuVi7kwDHhPWcMRpsorIE8MQeqee_UEpyZvPFQA4OsuUl-cIEB6152EuPgmteQrHOdzUTg=s160-c-k-c0x00ffffff-no-rj",
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCBiuljj5uaUVHbnTAzfvutg&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     }
 ]
