@@ -22,6 +22,6 @@
     {
         "name": "True FM",
         "logo": "https://yt3.googleusercontent.com/FXSuuTyct5gRqJKeKeYLdamQeCDtlYhmfJOlWHAtRQgL4lu4cWmb5iLT57PXjNTbduiD7tUD=s160-c-k-c0x00ffffff-no-rj",
-        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCjUrQJqEIfO1e52faNzt04g&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCjUrQJqEIfO1e52faNzt04g&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     }
 ]
