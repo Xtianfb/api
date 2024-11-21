@@ -122,6 +122,9 @@ https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/am
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/84hK02GVg2Z5ZWXzAbqprRstvVqvqlGxX1g00B06zXza9_FTZiTCTW9vlwqSuc2yvyH4=w240-h480-rw" group-title="CFBTV",Ondemand China
 https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/I/51ZRO9-pw5L.png" group-title="CFBTV",Hi-Yah!
+https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg" group-title="CFBTV",Nick Jr.
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 
