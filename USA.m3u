@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/250px-ACC_Network_ESPN_logo.svg.png" group-title="Usa231 server",ACCN ESPN
+http://212.102.60.231/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/220px-Bravo_2024.svg.png" group-title="Usa231 server",Bravo
+http://212.102.60.231/BRAVO/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/200px-CNBC_2023.svg.png" group-title="Usa231 server",CNBC
+http://212.102.60.231/CNBC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/200px-Discovery_Life_logo_2016.svg.png" group-title="Usa231 server",Discovery Life
+http://212.102.60.231/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/270px-Disney_XD_-_2015.svg.png" group-title="Usa231 server",Disney XD
+http://212.102.60.231/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="Usa231 server",ESPN 2
+http://212.102.60.231/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/250px-ESPNews.svg.png" group-title="Usa231 server",ESPN NEWS
+http://212.102.60.231/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/100px-ESPN_U_logo.svg.png" group-title="Usa231 server",ESPN U
+http://212.102.60.231/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/250px-Freeform_2022.svg.png" group-title="Usa231 server",Freeform
+http://212.102.60.231/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/220px-FX_International_logo.svg.png" group-title="Usa231 server",FX
+http://84.17.40.25/FX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/220px-FXX_Logo.svg.png" group-title="Usa231 server",FXX
+http://84.17.40.25/FXX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/270px-Golf_Channel_Logo_2018.png" group-title="Usa231 server",Golf Channel
+http://212.102.60.231/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Grit_TV_Network_Logo.gif/225px-Grit_TV_Network_Logo.gif" group-title="Usa231 server",GRIT
+http://212.102.60.231/GRIT_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hallmark_Family_2024.svg/200px-Hallmark_Family_2024.svg.png" group-title="Usa231 server",Hallmark Family
+http://212.102.60.231/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="Usa231 server",HBO
+http://212.102.60.231/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/200px-HBO_Family_Asia_logo.svg.png" group-title="Usa231 server",HBO Family
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Zone_2014_%28Stacked%29.svg/revision/latest?cb=20210113021639" group-title="Usa231 server",HBO Zone
+http://212.102.60.231/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/220px-Logo_Lifetime_2020.svg.png" group-title="Usa231 server",Lifetime
+http://212.102.60.231/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/200px-MLBNetworkLogo.svg.png" group-title="Usa231 server",MLB Network
+http://212.102.60.231/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/220px-Motor_Trend_logo.svg.png" group-title="Usa231 server",Motor Trend
+http://212.102.60.231/MOTOR_TREND/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/220px-MTV_2021_%28brand_version%29.svg.png" group-title="Usa231 server",MTV
+http://212.102.60.231/MTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/220px-MTV2_logo_2013.svg.png" group-title="Usa231 server",MTV 2
+http://212.102.60.231/MTV_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/220px-MTV_Classic_US.svg.png" group-title="Usa231 server",MTV Classic
+http://212.102.60.231/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/200px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="Usa231 server",MTV U
+http://212.102.60.231/MTV_U/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="Usa231 server",NBA TV
+http://212.102.60.231/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NewsNation_logo.svg/200px-NewsNation_logo.svg.png" group-title="Usa231 server",News Nation
+http://212.102.60.231/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/270px-NFL_Network_logo.svg.png" group-title="Usa231 server",NFL Network
+http://212.102.60.231/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Usa231 server",Nick Jr
+http://212.102.60.231/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/NickMusic_Purple.svg/256px-NickMusic_Purple.svg.png" group-title="Usa231 server",Nick Music
+http://212.102.60.231/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/150px-Outdoor_Channel_logo_2017.svg.png" group-title="Usa231 server",Outdoor Channel
+http://212.102.60.231/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/200px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Usa231 server",OXYGEN TRUE CRIME
+http://212.102.60.231/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/220px-Paramount_Network_2024.svg.png" group-title="Usa231 server",Paramount Network
+http://212.102.60.231/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/220px-Showtime.svg.png" group-title="Usa231 server",Showtime
+http://212.102.60.231/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Showtime_2_%282022-%29.svg/revision/latest/scale-to-width-down/1000?cb=20230126015326" group-title="Usa231 server",Showtime 2
+http://212.102.60.231/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Showtime_Extreme_%282022-%29.svg/revision/latest/scale-to-width-down/1000?cb=20230126015134" group-title="Usa231 server",Showtime Extreme
+http://212.102.60.231/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Showtime_Next_%282022-%29.svg/revision/latest?cb=20230126015111" group-title="Usa231 server",Showtime Next
+http://212.102.60.231/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Showtime_Women_%282022-%29.svg/revision/latest?cb=20230126015042" group-title="Usa231 server",Showtime Women
+http://212.102.60.231/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/250px-Starz_2022.svg.png" group-title="Usa231 server",Starz
+http://212.102.60.231/STARZ/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Starz_Comedy_2022.svg/revision/latest?cb=20220930135920" group-title="Usa231 server",Starz Comedy
+http://212.102.60.231/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Starz_Edge_2022.svg/revision/latest?cb=20220930140223g" group-title="Usa231 server",Starz Edge
+http://212.102.60.231/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/300px-Starz_Encore_Logo_2022.svg.png" group-title="Usa231 server",Starz Encore
+http://212.102.60.231/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Starz_Encore_Action_2022.svg/revision/latest/scale-to-width-down/1000?cb=20220930141051" group-title="Usa231 server",Starz Encore Action
+http://212.102.60.231/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Starz_Encore_Classic_2022.svg/revision/latest/scale-to-width-down/300?cb=20220930141330" group-title="Usa231 server",Starz Encore Classic
+http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Starz_Encore_Westerns_2022.svg/revision/latest/scale-to-width-down/1000?cb=20220930141915" group-title="Usa231 server",Starz Encore Westerns
+http://212.102.60.231/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/250px-SundanceTV_2014.svg.png" group-title="Usa231 server",Sundance TV
+http://84.17.40.25/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/110px-Tennis_Channel_logo.svg.png" group-title="Usa231 server",Tennis Channel
+http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/150px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Usa231 server",The Weather Channel
+http://212.102.60.231/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png" group-title="Usa231 server",TLC
+http://212.102.60.231/TLC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/200px-TNT_%28TV_Channel%29.svg.png" group-title="Usa231 server",TNT
+http://212.102.60.231/TNT/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/200px-VH1_logonew.svg.png" group-title="Usa231 server",VH1
+http://212.102.60.231/VH1/index.m3u8
