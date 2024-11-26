@@ -3,7 +3,7 @@
 https://ie.sonyrepairs.com/skarts/index.m3u8
 #EXTINF:0 CUID="3633" tvg-chno="null" tvg-name="Sky atlantic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/250px-Sky_Atlantic_-_Logo_2020.svg.png" group-title="Sky TV",Sky Atlantic
 https://ie.sonyrepairs.com/satlantic/index.m3u8
-#EXTINF:0 CUID="3634" tvg-chno="null" tvg-name="Sky action" tvg-logo=https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Cinema_Action_HD_%282020%29.svg/revision/latest?cb=20220613182517" group-title="Sky TV",Sky Cinema Action
+#EXTINF:0 CUID="3634" tvg-chno="null" tvg-name="Sky action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Cinema_Action_HD_%282020%29.svg/revision/latest?cb=20220613182517" group-title="Sky TV",Sky Cinema Action
 https://ie.sonyrepairs.com/skcineaction/index.m3u8
 #EXTINF:0 CUID="3635" tvg-chno="null" tvg-name="Sky animation" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Sky_Cinema_Animation_HD_2020.svg/revision/latest?cb=20220807111545" group-title="Sky TV",Sky Cinema Animation
 https://ie.sonyrepairs.com/skcineanimation/index.m3u8
