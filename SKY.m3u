@@ -33,8 +33,6 @@ https://ie.sonyrepairs.com/skhistory/index.m3u8
 https://ie.sonyrepairs.com/skhistory2/index.m3u8
 #EXTINF:0 CUID="3648" tvg-chno="null" tvg-name="Sky max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sky_Max_2021.svg/250px-Sky_Max_2021.svg.png" group-title="Sky TV",Sky Max
 https://ie.sonyrepairs.com/skmax/index.m3u8
-#EXTINF:0 CUID="3660" tvg-chno="null" tvg-name="Sky mix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Sky_Mix_Logo.svg/220px-Sky_Mix_Logo.svg.png" group-title="Sky TV",Sky Mix
-https://ie.sonyrepairs.com/spspmix/index.m3u8
 #EXTINF:0 CUID="3649" tvg-chno="null" tvg-name="Sky nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sky_Nature.svg/250px-Sky_Nature.svg.png" group-title="Sky TV",Sky Nature
 https://ie.sonyrepairs.com/sknature/index.m3u8
 #EXTINF:0 CUID="3650" tvg-chno="null" tvg-name="Sky news" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/250px-Sky_News_logo.svg.png" group-title="Sky TV",Sky News
@@ -45,7 +43,6 @@ https://ie.sonyrepairs.com/skreplay/index.m3u8
 https://ie.sonyrepairs.com/skshowcase/index.m3u8
 #EXTINF:0 CUID="3662" tvg-chno="null" tvg-name="Sky withness" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sky_Witness_%282020%29.png/250px-Sky_Witness_%282020%29.png" group-title="Sky TV",Sky Witness
 https://ie.sonyrepairs.com/withness/index.m3u8
-
 #EXTINF:0 CUID="3655" tvg-chno="null" tvg-name="Sky arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/250px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="Sky TV",Sky Sports Arena
 https://ie.sonyrepairs.com/sksparena/index.m3u8
 #EXTINF:0 CUID="3656" tvg-chno="null" tvg-name="Sky cricket" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Sky_Sports_Cricket_2020.svg/revision/latest?cb=20200924153122" group-title="Sky TV",Sky Sports Cricket
@@ -62,6 +59,8 @@ https://ie.sonyrepairs.com/skspnfl/index.m3u8
 https://ie.sonyrepairs.com/sksppremierleague/index.m3u8
 #EXTINF:0 CUID="3664" tvg-chno="null" tvg-name="Sky main event" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sports_Main_Event_2020.svg/revision/latest?cb=20200924152245" group-title="Sky TV",Sky Sports Main Event
 https://ie.sonyrepairs.com/skspmainevent/index.m3u8
+#EXTINF:0 CUID="3660" tvg-chno="null" tvg-name="Sky mix" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_Mix_2020.svg/revision/latest?cb=20200924152645" group-title="Sky TV",Sky Sports Mix
+https://ie.sonyrepairs.com/spspmix/index.m3u8
 #EXTINF:0 CUID="3653" tvg-chno="null" tvg-name="Sky sport news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sky_sports_news_2021_logo.svg/250px-Sky_sports_news_2021_logo.svg.png" group-title="Sky TV",Sky Sport News
 https://ie.sonyrepairs.com/skspnews/index.m3u8
 #EXTINF:0 CUID="3654" tvg-chno="null" tvg-name="Sky tennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/250px-Sky_Sport_Tennis.svg.png" group-title="Sky TV",Sky Sports Tennis
