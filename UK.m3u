@@ -1,0 +1,173 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/BBC_News_2022_%28Alt%29.svg/revision/latest?cb=20220326124147" group-title="UK Channel",BBC News
+https://ie.sonyrepairs.com/bbcnews/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/BBC_One_%282021%29.svg/revision/latest?cb=20211020052725" group-title="UK Channel",BBC One
+https://ie.sonyrepairs.com/bbcone/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/BBC_Two_%282021%29.svg/revision/latest?cb=20211019175921" group-title="UK Channel",BBC Two
+https://ie.sonyrepairs.com/bbctwo/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/BBC_Three_2022.svg/revision/latest/scale-to-width-down/1000?cb=20221008104227" group-title="UK Channel",BBC Three
+https://ie.sonyrepairs.com/bbctree/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/BBC_Four_%282021%29.svg/revision/latest?cb=20230531112726" group-title="UK Channel",BBC Four
+https://ie.sonyrepairs.com/bbcfour/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Bloomberg_Television.svg/revision/latest?cb=20100524171519" group-title="UK Channel",Bloomberg
+https://ie.sonyrepairs.com/bloomberg/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest?cb=20220308111336" group-title="UK Channel",Boomerang
+https://ie.sonyrepairs.com/boomrang/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754" group-title="UK Channel",Cartoon Network
+https://ie.sonyrepairs.com/cnetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Challenge16.png/revision/latest/scale-to-width-down/1000?cb=20160623121640" group-title="UK Channel",Challenge
+https://ie.sonyrepairs.com/chalenge/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/E4_2018.svg/revision/latest?cb=20180927102528" group-title="UK Channel",Channel E4
+https://ie.sonyrepairs.com/e4/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Channel_4_OD_Green_2023.svg/revision/latest?cb=20230424205137" group-title="UK Channel",Channel 4
+https://ie.sonyrepairs.com/channel4/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Channel_5_2016.svg/revision/latest?cb=20160211232158" group-title="UK Channel",Channel 5
+https://ie.sonyrepairs.com/channel5/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Comedy_Central_2018.svg/revision/latest?cb=20191223064712" group-title="UK Channel",Comedy Central
+https://ie.sonyrepairs.com/ccentral/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Court_TV_2019.svg/revision/latest/scale-to-width-down/1000?cb=20211208025907" group-title="UK Channel",Court TV
+https://ie.sonyrepairs.com/courttv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/C%26I_logo.svg/revision/latest?cb=20190613183256" group-title="UK Channel",Crime & Investigation
+https://ie.sonyrepairs.com/cinvest/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203" group-title="UK Channel",Discovery Channel
+https://ie.sonyrepairs.com/discovery/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Discovery_Turbo_2009.svg/revision/latest?cb=20191130171637" group-title="UK Channel",Discovery Turbo
+https://ie.sonyrepairs.com/discoveyturbo/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Eurosport_1_2022.svg/revision/latest/scale-to-width-down/1000?cb=202208060903100" group-title="UK Channel",Eurosport 1
+https://ie.sonyrepairs.com/eurosp1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Eurosport_2_2022.svg/revision/latest?cb=20220417183127" group-title="UK Channel",Eurosport 2
+https://ie.sonyrepairs.com/eurosp2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Film4_2018.svg/revision/latest?cb=20180927102710" group-title="UK Channel",Film 4
+https://ie.sonyrepairs.com/film4/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FN-Logo.svg/revision/latest?cb=20171221110545" group-title="UK Channel",Food Network
+https://ie.sonyrepairs.com/foodnetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/GBNews.svg/revision/latest?cb=20210421163251" group-title="UK Channel",GB News
+https://ie.sonyrepairs.com/gbnews/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/ITV1_2022.svg/revision/latest?cb=20221115050938" group-title="UK Channel",ITV1
+https://ie.sonyrepairs.com/itvlondon/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/ITV2_2022.svg/revision/latest?cb=20221115054124" group-title="UK Channel",ITV2
+https://ie.sonyrepairs.com/itv2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/ITV3_2022.svg/revision/latest?cb=20221115063455" group-title="UK Channel",ITV3
+https://ie.sonyrepairs.com/itv3/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/ITV4_2022.svg/revision/latest?cb=20221115070825" group-title="UK Channel",ITV4
+https://ie.sonyrepairs.com/itv4/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/ITVBe_2022.svg/revision/latest?cb=20221115080457" group-title="UK Channel",ITVBe
+https://ie.sonyrepairs.com/itvbe/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/LaLiga_V_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230705140803" group-title="UK Channel",Laliga
+https://ie.sonyrepairs.com/laliga/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/LFC_125.png/revision/latest?cb=20180125064624" group-title="UK Channel",LFC TV
+https://ie.sonyrepairs.com/lfctv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/More4_2018.svg/revision/latest?cb=20180927102632" group-title="UK Channel",More4
+https://ie.sonyrepairs.com/more4/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Christmas_24.svg/revision/latest?cb=201701011927428" group-title="UK Channel",Christmas 24
+https://ie.sonyrepairs.com/movies24/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/MTV_2021_Retro.svg/revision/latest?cb=20230607080834" group-title="UK Channel",MTV
+https://ie.sonyrepairs.com/mtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/MUTV_logo.png/revision/latest?cb=20170927164546" group-title="UK Channel",MUTV
+https://ie.sonyrepairs.com/mutv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest?cb=20170701154034" group-title="UK Channel",National Geographic UK
+https://ie.sonyrepairs.com/natgeo/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Nicktoons_2023_Logo.svg/revision/latest?cb=20240724194938" group-title="UK Channel",Nicktoons
+https://ie.sonyrepairs.com/nicktoons/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441" group-title="UK Channel",Premier Sport1 
+https://ie.sonyrepairs.com/premiersp1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest?cb=20230516195653" group-title="UK Channel",Premier Sport 2
+https://ie.sonyrepairs.com/premiersp2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Channel",Now Sports 1
+https://ie.sonyrepairs.com/pr1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Astro_Premier_League_2_%28Oct_2024%29.png/revision/latest?cb=20241121183257" group-title="UK Channel",Premier League 2
+https://ie.sonyrepairs.com/pr2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Quest_2014.svg/revision/latest?cb=20140512195710" group-title="UK Channel",Quest
+https://ie.sonyrepairs.com/quest/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Really_2013.svg/revision/latest?cb=20130511121930" group-title="UK Channel",Really
+https://ie.sonyrepairs.com/really/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Sky_arts_2020.png/revision/latest/scale-to-width-down/1000?cb=20200630162600" group-title="UK Channel",Sky Arts
+https://ie.sonyrepairs.com/skarts/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Sky_Atlantic_2020.svg/revision/latest?cb=20210116003838" group-title="UK Channel",Sky Atlantic
+https://ie.sonyrepairs.com/satlantic/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Sky_Cinema_Action_2020.svg/revision/latest?cb=20210118213113" group-title="UK Channel",Sky Cinema Action
+https://ie.sonyrepairs.com/skcineaction/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sky_Cinema_Animation_2020.svg/revision/latest?cb=20211125131457" group-title="UK Channel",Sky Cinema Animation
+https://ie.sonyrepairs.com/skcineanimation/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Sky_Cinema_Comedy_2020.svg/revision/latest?cb=20210118213600" group-title="UK Channel",Sky Cinema Comedy
+https://ie.sonyrepairs.com/skcinecomedy/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Sky_Cinema_Family_2020.svg/revision/latest?cb=20210118213029" group-title="UK Channel",Sky Cinema Family
+https://ie.sonyrepairs.com/skcinefamily/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Sky_Cinema_Greats_2020.svg/revision/latest?cb=20200702164648" group-title="UK Channel",Sky Cinema Greats
+https://ie.sonyrepairs.com/skcinegretas/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Cinema_Hits_2020.svg/revision/latest?cb=20200702151124" group-title="UK Channel",Sky Cinema Hits
+https://ie.sonyrepairs.com/skcinehits/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Cinema_Premiere_2020.svg/revision/latest?cb=20200702150346" group-title="UK Channel",Sky Cinema Premiere
+https://ie.sonyrepairs.com/skcinepremiere/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Sky_Cinema_Select_2020.svg/revision/latest?cb=20200702170349" group-title="UK Channel",Sky Cinema Select
+https://ie.sonyrepairs.com/skcineselect/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Sky_Cinema_Thriller_2020.svg/revision/latest?cb=20201029120808" group-title="UK Channel",Sky Cinema Thriller
+https://ie.sonyrepairs.com/skcinethriller/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Sky_Comedy_logo.svg/revision/latest?cb=20200825185441" group-title="UK Channel",Sky Comedy
+https://ie.sonyrepairs.com/skcomedy/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Sky_Crime_2020.svg/revision/latest?cb=20200830152352" group-title="UK Channel",Sky Crime
+https://ie.sonyrepairs.com/skcrime/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Documentaries_2020.svg/revision/latest?cb=20200705155600" group-title="UK Channel",Sky Documentaries
+https://ie.sonyrepairs.com/skdocumentaries/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sky_History_2024.svg/revision/latest?cb=20240228041454" group-title="UK Channel",Sky History
+https://ie.sonyrepairs.com/skhistory/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Sky_History2_2024.svg/revision/latest?cb=20240301025822" group-title="UK Channel",Sky History2
+https://ie.sonyrepairs.com/skhistory2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Sky_Max_logo.svg/revision/latest/scale-to-width-down/1000?cb=20210921150910" group-title="UK Channel",Sky Max
+https://ie.sonyrepairs.com/skmax/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Sky_Nature_2020.svg/revision/latest?cb=20210622162133" group-title="UK Channel",Sky Nature
+https://ie.sonyrepairs.com/sknature/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Sky_News_2020.svg/revision/latest?cb=20210603125410" group-title="UK Channel",Sky News
+https://ie.sonyrepairs.com/skynews/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/SKYREPLAY.svg/revision/latest/scale-to-width-down/1000?cb=20200825213340" group-title="UK Channel",Sky Replay
+https://ie.sonyrepairs.com/skreplay/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sky_Showcase_2021.svg/revision/latest/scale-to-width-down/1000?cb=20210729112657" group-title="UK Channel",Sky Showcase
+https://ie.sonyrepairs.com/skshowcase/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sky_Sports_Arena_2020.svg/revision/latest?cb=20200924152351" group-title="UK Channel",Sky Sports Arena
+https://ie.sonyrepairs.com/sksparena/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Sky_Sports_Cricket_2020.svg/revision/latest?cb=20200924153122" group-title="UK Channel",Sky Sports Cricket
+https://ie.sonyrepairs.com/skspcricket/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Sky_Sports_F1_2020.svg/revision/latest?cb=20200924152412" group-title="UK Channel",Sky Sports F1
+https://ie.sonyrepairs.com/skspf1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sky_Sports_Football_2020.svg/revision/latest?cb=20200924152526" group-title="UK Channel",Sky Sports Football
+https://ie.sonyrepairs.com/skspfootball/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Sky_Sports_Golf_2020.svg/revision/latest?cb=20200924152539" group-title="UK Channel",Sky Sports Golf
+https://ie.sonyrepairs.com/skspgolf/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sports_Main_Event_2020.svg/revision/latest?cb=20200924152245" group-title="UK Channel",Sky Sports Main Event
+https://ie.sonyrepairs.com/skspmainevent/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_Mix_2020.svg/revision/latest?cb=20200924152645" group-title="UK Channel",Sky Sports Mix
+https://ie.sonyrepairs.com/spspmix/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_News_2020.svg/revision/latest?cb=20200924152703" group-title="UK Channel",Sky Sport News
+https://ie.sonyrepairs.com/skspnews/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Sky_Sports_NFL.svg/revision/latest?cb=20200924152829" group-title="UK Channel",Sky Sports NFL
+https://ie.sonyrepairs.com/skspnfl/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Sports_Premier_League_2020.svg/revision/latest?cb=20200924152906" group-title="UK Channel",Sky Sports Premier League
+https://ie.sonyrepairs.com/sksppremierleague/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Sky_Sports_Tennis.svg/revision/latest?cb=20230830104212" group-title="UK Channel",Sky Sports Tennis
+https://ie.sonyrepairs.com/sktennis/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Sky_Witness_2020.svg/revision/latest?cb=20210626163542" group-title="UK Channel",Sky Witness
+https://ie.sonyrepairs.com/withness/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Sony_Max_HD_2022.png/revision/latest?cb=20221025030422" group-title="UK Channel",Sony Max
+https://ie.sonyrepairs.com/sonymax/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/TBN_UK_2024.svg/revision/latest?cb=202408262317283" group-title="UK Channel",TBN uk
+https://ie.sonyrepairs.com/tbn/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/TCM_%28UK_and_Ireland%29_2019.svg/revision/latest?cb=20191223184954" group-title="UK Channel",TCM Movies
+https://ie.sonyrepairs.com/tcm/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/TNT_Sports_1_%282023%29.svg/revision/latest?cb=20230704071741" group-title="UK Channel",Tnt Sports 1
+https://ie.sonyrepairs.com/tnt1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/TNT_Sports_2_%282023%29.svg/revision/latest?cb=20230717230828" group-title="UK Channel",Tnt Sports 2
+https://ie.sonyrepairs.com/tnt2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/TNT_Sports_3_%282023%29.svg/revision/latest?cb=20230717230836" group-title="UK Channel",Tnt Sports 3
+https://ie.sonyrepairs.com/tnt3/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/TNT_Sports_4_%282023%29.svg/revision/latest?cb=20230704072048" group-title="UK Channel",Tnt Sports 4
+https://ie.sonyrepairs.com/tnt4/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/U%26Dave_%282024%29.svg/revision/latest?cb=20240715092635" group-title="UK Channel",U&Dave
+https://ie.sonyrepairs.com/dave/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/U%26DaveJaVu.svg/revision/latest/scale-to-width-down/1000?cb=20240715091816" group-title="UK Channel",U&DaveJaVu
+https://ie.sonyrepairs.com/davejavu/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/U%26DRAMA_%282024%29.svg/revision/latest?cb=20240507144437" group-title="UK Channel",U&Drama
+https://ie.sonyrepairs.com/drama/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/U%26eden_%282024%29.svg/revision/latest?cb=20241016082746" group-title="UK Channel",U&Eden
+https://ie.sonyrepairs.com/eden/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/U%26GOLD_%282024%29.svg/revision/latest?cb=20241015171331" group-title="UK Channel",U&Gold
+https://ie.sonyrepairs.com/gold/index.m3u8
