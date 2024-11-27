@@ -33,6 +33,12 @@ https://ie.sonyrepairs.com/cinvest/index.m3u8
 https://ie.sonyrepairs.com/discovery/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Discovery_Turbo_2009.svg/revision/latest?cb=20191130171637" group-title="UK Channel",Discovery Turbo
 https://ie.sonyrepairs.com/discoveyturbo/index.m3u8
+#EXTINF:0 CUID="3566" tvg-chno="null" tvg-name="Disney ch" group-title="Cable tv",Disney ch
+https://main.sonyrepairs.com/disneych/index.m3u8
+#EXTINF:0 CUID="3567" tvg-chno="null" tvg-name="Disney jr" group-title="Cable tv",Disney jr
+https://main.sonyrepairs.com/disneyjr/index.m3u8
+#EXTINF:0 CUID="3569" tvg-chno="null" tvg-name="Disney xd" group-title="Cable tv",Disney xd
+https://main.sonyrepairs.com/disneyxd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Eurosport_1_2022.svg/revision/latest/scale-to-width-down/1000?cb=202208060903100" group-title="UK Channel",Eurosport 1
 https://ie.sonyrepairs.com/eurosp1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Eurosport_2_2022.svg/revision/latest?cb=20220417183127" group-title="UK Channel",Eurosport 2
@@ -63,10 +69,18 @@ https://ie.sonyrepairs.com/more4/index.m3u8
 https://ie.sonyrepairs.com/movies24/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/MTV_2021_Retro.svg/revision/latest?cb=20230607080834" group-title="UK Channel",MTV
 https://ie.sonyrepairs.com/mtv/index.m3u8
+#EXTINF:0 CUID="3610" tvg-chno="null" tvg-name="Mtv base" group-title="Cable tv",Mtv base
+https://main.sonyrepairs.com/mtvbase/index.m3u8
+#EXTINF:0 CUID="3611" tvg-chno="null" tvg-name="Mtv music" group-title="Cable tv",Mtv music
+https://main.sonyrepairs.com/mtvmusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/MUTV_logo.png/revision/latest?cb=20170927164546" group-title="UK Channel",MUTV
 https://ie.sonyrepairs.com/mutv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest?cb=20170701154034" group-title="UK Channel",National Geographic UK
 https://ie.sonyrepairs.com/natgeo/index.m3u8
+#EXTINF:0 CUID="3616" tvg-chno="null" tvg-name="Nick jr" group-title="Cable tv",Nick Jr.
+https://main.sonyrepairs.com/nickjr/index.m3u8
+#EXTINF:0 CUID="3617" tvg-chno="null" tvg-name="Nockelodeon" group-title="Cable tv",Nickelodeon
+https://main.sonyrepairs.com/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Nicktoons_2023_Logo.svg/revision/latest?cb=20240724194938" group-title="UK Channel",Nicktoons
 https://ie.sonyrepairs.com/nicktoons/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441" group-title="UK Channel",Premier Sport1 
