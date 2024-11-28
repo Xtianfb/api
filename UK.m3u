@@ -77,7 +77,7 @@ https://ie.sonyrepairs.com/premiersp1/index.m3u8
 https://ie.sonyrepairs.com/premiersp2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Channel",Now Sports 1
 https://ie.sonyrepairs.com/pr1/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Astro_Premier_League_2_%28Oct_2024%29.png/revision/latest?cb=20241121183257" group-title="UK Channel",Premier League 2
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" group-title="UK Channel",Hub Premier 2
 https://ie.sonyrepairs.com/pr2/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Quest_2014.svg/revision/latest?cb=20140512195710" group-title="UK Channel",Quest
 https://ie.sonyrepairs.com/quest/index.m3u8
