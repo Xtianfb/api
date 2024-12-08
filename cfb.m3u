@@ -5,12 +5,6 @@ https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd651
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/MYX_new_logo.svg/200px-MYX_new_logo.svg.png" group-title="CFBTV",MYX Ph
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png" group-title="CFBTV",BBC News Asia Pacific
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/220px-Deutsche_Welle_Logo.svg.png" group-title="CFBTV",DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="CFBTV",HBO 2
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 
@@ -40,6 +34,12 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="CFBTV",Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png" group-title="CFBTV",BBC News Asia Pacific
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/1000?cb=20120227170040" group-title="CFBTV",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/200px-Aljazeera_eng.svg.png" group-title="CFBTV",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
