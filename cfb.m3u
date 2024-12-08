@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/1024px-TV5_%28Philippines%29_logo.svg.png" group-title="CFBTV",TV5
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/INC_TV_New_Logo.png/220px-INC_TV_New_Logo.png" group-title="CFBTV",INCTV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 
@@ -32,47 +29,11 @@ https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="CFBTV",CINEMO!
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title=""CFBTV",National Geographic
-https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=videojs
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title=""CFBTV",NatGeo Wild
-https://stream02.vnet.am/NatGeoWild/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Discovery_HD_logo_2009.png/200px-Discovery_HD_logo_2009.png" group-title="CFBTV",Discovery HD
-https://corsproxy.io/?https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/200px-Discovery_Science_2017_Logo.svg.png" group-title="CFBTV",Discovery Science
-https://dplus.gammacdn.workers.dev/videos/96.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/640px-Discovery_Turbo.png" group-title="CFBTV",Discovery Turbo
-https://dplus.gammacdn.workers.dev/videos/98.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/200px-InvestigationDiscoveryLogo2020.svg.png" group-title="CFBTV",Investigation Discovery
-https://corsproxy.io/?https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/200px-DMAX_BLACK.svg.png" group-title="CFBTV",DMAX
-https://dplus.gammacdn.workers.dev/videos/109.m3u8
-
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/american-pickers-logo-A03D6DF65E-seeklogo.com.png" group-title="CFBTV",American Pickers
 https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="CFBTV",Animal Planet
-https://dplus.gammacdn.workers.dev/videos/99.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/200px-2018_Travel_Channel_logo.svg.png" group-title="CFBTV",Travel Channel
-https://dplus.gammacdn.workers.dev/videos/110.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/150px-Outdoor_Channel_logo_2017.svg.png" group-title="CFBTV",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/200px-HGTV_2010.svg.png" group-title="CFBTV",HGTV
-https://dplus.gammacdn.workers.dev/videos/111.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="CFBTV",Food Network
-https://dplus.gammacdn.workers.dev/videos/112.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="CFBTV",TLC
-https://dplus.gammacdn.workers.dev/videos/97.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="CFBTV",Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
@@ -122,7 +83,7 @@ https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/am
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/84hK02GVg2Z5ZWXzAbqprRstvVqvqlGxX1g00B06zXza9_FTZiTCTW9vlwqSuc2yvyH4=w240-h480-rw" group-title="CFBTV",Ondemand China
 https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/I/51ZRO9-pw5L.png" group-title="CFBTV",Hi-Yah!
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/36/3d/87363dab-5e28-c102-bfc7-a576c8519da6/AppIcon-Branded-1x_U007emarketing-0-6-0-85-220-0.png/217x0w.webp" group-title="CFBTV",Hi-Yah!
 https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg" group-title="CFBTV",Nick Jr.
