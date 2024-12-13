@@ -1,6 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
-
-
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
@@ -470,7 +468,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
 #EXTINF:-1 tvg-id="501.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Awani  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
 
-#EXTINF:-1 tvg-id="518.astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/ABCAustralia.svg/revision/latest?cb=20180702124934" group-title="Astro",ABC Australia
+#EXTINF:-1 tvg-id="518.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ABC_v1.png" group-title="Astro",ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6a9fcc2f94258cee0f2108687c42e710": "99bd7c1ff2391244b4e40e08bef1109d"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5075/default.mpd
@@ -505,12 +503,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_primary.mpd
 #EXTINF:-1 tvg-id="511.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CNN_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",CNN
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2503/default.mpd
 
-#EXTINF:-1 tvg-id="521.astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/1000?cb=20120227170040" group-title="Astro",DW
+#EXTINF:-1 tvg-id="521.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/DW_v1.png" group-title="Astro",DW
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"7edf3bd590cf337f721a2e5bec361510": "13bb829ce4836ccf74071c45993978c5"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9984/default.mpd
 
-#EXTINF:-1 tvg-id="522.astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/France_24_2013.svg/revision/latest?cb=20210115151030" group-title="Astro",France 24
+#EXTINF:-1 tvg-id="522.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/France24_v1.png" group-title="Astro",France 24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3b0c1cebd0c4518d600f52c354ed1910": "76d409ffc4eaa012c61d8c31bd13df5d"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9985/default.mpd
