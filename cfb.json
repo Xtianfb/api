@@ -33,5 +33,10 @@
         "name": "TV5",
         "logo": "https://yt3.googleusercontent.com/3-upkQQQU3NYNVo068llLEjXnazQEccJLSqEqsNLz4OH4HTLT28LMwSLMxERqiSiYv3ZUs1v=s160-c-k-c0x00ffffff-no-rj",
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCiFx0kZFjR29u0uJxTSq5MQ&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+    },
+    {
+        "name": "NET25",
+        "logo": "https://yt3.googleusercontent.com/5sa8CuD6KoDSHtFDZAFTZ83x19vvkCivZRgOmktEzAg9xkBtezJBbAD-EXKybXzt-_kRnBIysg=s160-c-k-c0x00ffffff-no-rj",
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UC5IF8NlxMW1GkEUUqWJJBIw&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     }
 ]
