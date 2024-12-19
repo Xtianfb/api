@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/200px-TV5_%28Philippines%29_logo.svg.png" group-title="CFBTV",TV5
+http://data.enics.cloud:9999/stream/iptv/tv5/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/INC_TV_New_Logo.png/220px-INC_TV_New_Logo.png" group-title="CFBTV",INCTV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 
