@@ -10,6 +10,11 @@
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCKL5hAuzgFQsyrsQKgU0Qng&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     },
     {
+        "name": "Eat Bulaga TVJ",
+        "logo": "https://yt3.googleusercontent.com/LEJiad-8tC5St_L8zMg-jWvZYUD9dYJ2g539wqlRCxpepPi9JgQWRbattOy3aSUh_3PPWcSc=s160-c-k-c0x00ffffff-no-rj",
+        "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCby04dl3oIxkDoZil8xP_FA&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+    },
+    {
         "name": "DZRH",
         "logo": "https://yt3.googleusercontent.com/ru7PnoJsLdba3X0yMrOh3BBFb3yU7D1deI-1IO5SoKd5WY23sYHvhyV0MhJzxBSeXIs7E-4pYw=s160-c-k-c0x00ffffff-no-rj",
         "link": "<iframe id=\"iptvplayer\" src=\"https://www.youtube.com/embed/live_stream?channel=UCcTiBX8js_djhSSlmJRI99A&autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
