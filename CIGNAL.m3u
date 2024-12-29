@@ -269,7 +269,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
 
-#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD122-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="CIGNAL PLAYLIST", CNA (Loop)
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD122-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="CIGNAL PLAYLIST", CNA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b259df9987364dd3b778aa5d42cb9acd:753e3dba96ab467e468269e7e33fb813
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_channelnewsasia.mpd
@@ -314,7 +314,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #KODIPROP:inputstream.adaptive.license_key=fc19c98cb9504a0fb78b22fea0a4b814:ea683112a96d4ae6c32d4ea13923e8c7
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
 
-#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6520-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="CIGNAL PLAYLIST", Rock Extreme (Loop)
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6520-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="CIGNAL PLAYLIST", Rock Extreme
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
@@ -399,7 +399,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
 
-#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD5C8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="CIGNAL PLAYLIST", Crime & Investigation (Loop)
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD5C8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="CIGNAL PLAYLIST", Crime & Investigation
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_crime_invest.mpd
