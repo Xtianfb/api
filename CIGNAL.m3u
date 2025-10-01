@@ -12,7 +12,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/i
 #EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/4514F052-94DC-47C5-8BB1-DA42BD5F2F57/0-16x9.jpg?width=203" group-title="CIGNAL PLAYLIST", TrueTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
-//https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/68C2D95A-A2A4-4C2B-93BE-41893C61210C/0-16x9.jpg?width=203" group-title="CIGNAL PLAYLIST", Hits Now
@@ -456,5 +455,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index
 //https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 #KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
+
 
 
