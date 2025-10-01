@@ -2,7 +2,6 @@
 #EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/166677E4-33C5-4C3B-A09D-7B3442D99E77/0-16x9.jpg?width=203" group-title="CIGNAL PLAYLIST", BNC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
-//https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default1/index.mpd
 
 #EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/44B03994-C303-4ACE-997C-91CAC493D0FC/0-16x9.jpg?width=203" group-title="CIGNAL PLAYLIST", RPTV HD
@@ -457,4 +456,5 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index
 //https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 #KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
+
 
